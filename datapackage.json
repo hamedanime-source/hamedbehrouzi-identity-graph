@@ -1,0 +1,37 @@
+{
+  "name": "hamedbehrouzi-identity-graph",
+  "title": "Hamed Behrouzi — Identity Graph Mirror (Q1)",
+  "description": "Structured dataset describing Hamed Behrouzi’s verified identity graph, aligned with Wikidata, IMDb, OpenAlex, and the AI Ethical Interface.",
+  "homepage": "https://hamedbehrouzi.com",
+  "doi": "10.5281/zenodo.17405925",
+  "keywords": [
+    "Hamed Behrouzi",
+    "Knowledge Graph",
+    "Identity Graph",
+    "Wikidata Mirror",
+    "Dataset",
+    "AI Ethical Interface",
+    "Animation",
+    "VFX",
+    "Technical Animation",
+    "AI Architect",
+    "JSON-LD"
+  ],
+  "license": {
+    "name": "CC-BY-4.0",
+    "title": "Creative Commons Attribution 4.0 International",
+    "path": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "author": {
+    "name": "Hamed Behrouzi",
+    "email": "hamed@hamedbehrouzi.com",
+    "homepage": "https://hamedbehrouzi.com"
+  },
+  "resources": [
+    {
+      "path": "Hamed_Behrouzi_IdentityGraph_Q1.zip",
+      "description": "JSON-LD and structured metadata package for identity graph alignment.",
+      "format": "zip"
+    }
+  ]
+}

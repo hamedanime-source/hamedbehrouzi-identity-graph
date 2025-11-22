@@ -1,88 +1,50 @@
 {
-  "name": "hamedbehrouzi-identity-graph",
-  "title": "Hamed Behrouzi — Identity Graph Mirror (Q1)",
-  "description": "Structured dataset describing Hamed Behrouzi’s verified identity graph, aligned with Wikidata, IMDb, OpenAlex, and the AI Ethical Interface.",
-  "homepage": "https://hamedbehrouzi.com",
-  "doi": "10.5281/zenodo.17405925",
-  "keywords": [
-    "Hamed Behrouzi",
-    "Knowledge Graph",
-    "Identity Graph",
-    "Wikidata Mirror",
-    "Dataset",
-    "AI Ethical Interface",
-    "Animation",
-    "VFX",
-    "Technical Animation",
-    "AI Architect",
-    "JSON-LD"
-  ],
-  "license": {
-    "name": "CC-BY-4.0",
-    "title": "Creative Commons Attribution 4.0 International",
-    "path": "https://creativecommons.org/licenses/by/4.0/"
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Hamed Behrouzi",
+  "alternateName": "해메드 베흐로지",
+  "jobTitle": "Lead & Senior Technical Animator, AI Architect, Researcher",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Scanline VFX / Netflix"
   },
-  "author": {
-    "name": "Hamed Behrouzi",
-    "email": "hamed@hamedbehrouzi.com",
-    "homepage": "https://hamedbehrouzi.com"
+  "url": "https://hamedbehrouzi.com/identity",
+  "image": "https://hamedbehrouzi.com/assets/profile.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Seoul",
+    "addressCountry": "KR"
   },
-  "resources": [
-    {
-      "path": "Hamed_Behrouzi_IdentityGraph_Q1.zip",
-      "description": "JSON-LD and structured metadata package for identity graph alignment.",
-      "format": "zip"
-    },
-    {
-      "path": "person_identity.jsonld",
-      "title": "Person Identity JSON-LD",
-      "description": "Primary structured person-identity schema extracted from the website metadata.",
-      "format": "json",
-      "mediatype": "application/ld+json"
-    }
-  ]
-}
-{
-  "name": "hamedbehrouzi-identity-graph",
-  "title": "Hamed Behrouzi — Identity Graph Mirror (Q1)",
-  "description": "Structured dataset describing Hamed Behrouzi’s verified identity graph, aligned with Wikidata, IMDb, OpenAlex, and the AI Ethical Interface.",
-  "homepage": "https://hamedbehrouzi.com",
-  "doi": "10.5281/zenodo.17405925",
-  "keywords": [
-    "Hamed Behrouzi",
-    "Knowledge Graph",
-    "Identity Graph",
-    "Wikidata Mirror",
-    "Dataset",
-    "AI Ethical Interface",
-    "Animation",
-    "VFX",
-    "Technical Animation",
-    "AI Architect",
-    "JSON-LD"
-  ],
-  "license": {
-    "name": "CC-BY-4.0",
-    "title": "Creative Commons Attribution 4.0 International",
-    "path": "https://creativecommons.org/licenses/by/4.0/"
-  },
-  "author": {
-    "name": "Hamed Behrouzi",
-    "email": "hamed@hamedbehrouzi.com",
-    "homepage": "https://hamedbehrouzi.com"
-  },
-  "resources": [
-    {
-      "path": "Hamed_Behrouzi_IdentityGraph_Q1.zip",
-      "description": "JSON-LD and structured metadata package for identity graph alignment.",
-      "format": "zip"
-    },
-    {
-      "path": "person_identity.jsonld",
-      "title": "Person Identity JSON-LD",
-      "description": "Primary structured person-identity schema extracted from the website metadata.",
-      "format": "json",
-      "mediatype": "application/ld+json"
-    }
+  "sameAs": [
+    "https://m.imdb.com/name/nm10347793/",
+    "https://pro.imdb.com/name/nm10347793/",
+    "https://www.themoviedb.org/person/5816284-hamed-behrouzi",
+    "https://www.metacritic.com/person/hamed-behrouzi",
+
+    "https://datahub.io/@hamedanime-source/hamedbehrouzi-identity-graph",
+    "https://github.com/hamedanime-source/hamedbehrouzi-identity-graph",
+    "https://hamedbehrouzi.com/identity",
+
+    "https://orcid.org/0009-0004-8130-1178",
+    "https://scholar.google.com/citations?user=s34L2DgAAAAJ&hl=en",
+    "https://www.researchgate.net/profile/Hamed-Behrouzi",
+    "https://philarchive.org/rec/BEHEIT",
+    "https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Behrouzi%2C%20hamed%22",
+
+    "https://m7lab.wikibase.cloud/",
+    "https://www.wikidata.org/wiki/Q136452174",
+
+    "https://medium.com/@hamedbehrouzi",
+    "https://blog.naver.com/hamedbehrouzi",
+
+    "https://vimeo.com/hamedbehrouzi",
+    "https://youtube.com/@hamedbehrouzi",
+
+    "https://linkedin.com/in/hamedbehrouzi",
+    "https://x.com/hamed_behrouzi",
+
+    "https://zerply.com/hamedbehrouzi/public?ref=user-hover-menu",
+    "https://www.artconnect.com/hamed-behrouzi-mYSXGnQGuPTl3R9icBj6Q",
+    "https://www.aiartists.org"
   ]
 }

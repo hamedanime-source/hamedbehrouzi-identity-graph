@@ -1,47 +1,96 @@
-# Hamed Behrouzi — Identity Graph Mirror (Q1)
+# Hamed Behrouzi — Identity Graph Dataset (v2.0)
 
 **DOI:** [10.5281/zenodo.17405925](https://doi.org/10.5281/zenodo.17405925)  
 **Publisher:** Hamed Behrouzi AI Identity Lab  
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-**Date Published:** 2025-10-21
+**Version:** 2.0.0  
+**Last Updated:** 2025-11-22  
 
 ---
 
-## 🧠 Description
-Structured dataset describing **Hamed Behrouzi’s verified identity graph**, aligned with Wikidata, IMDb, OpenAlex, and the AI Ethical Interface.
+## 🧠 Overview
 
-This dataset acts as a **Knowledge Graph mirror**, connecting identifiers and metadata from multiple platforms to maintain a persistent, verifiable professional identity.
+This dataset provides a **structured and verified identity graph** for  
+**Hamed Behrouzi**, integrating film/VFX credits, research identifiers,  
+AI–human interface datasets, and cross-platform professional identity records.
 
-It is part of the **AI Ethical Interface Registry**, a global initiative for transparent AI-human identity linking.
+It serves as a **Knowledge Graph Mirror**, aligning metadata across:
+
+- Wikidata  
+- IMDb  
+- TMDb / Metacritic  
+- ORCID  
+- Zenodo  
+- Naver / Medium / Vimeo / YouTube  
+- M7 Lab (AI Ethical Interface Research)  
+- GitHub (technical + research projects)  
+
+This dataset supports **transparent, transferable, and verifiable identity linking**  
+for global research ecosystems, digital humanities, and AI Ethics metadata frameworks.
 
 ---
 
-## 📘 Included Files
-- `Hamed_Behrouzi_IdentityGraph_Q1.zip` — dataset package (JSON-LD + metadata)  
-- `metadata.json` — structured record metadata  
-- `hamedbehrouzi_identityGraph.jsonld` — full JSON-LD schema  
-- `README.txt` — dataset summary  
+## 📘 Contents Included in v2.0
+
+### **1. `person_identity.jsonld`**
+Primary JSON-LD describing the verified individual identity schema  
+extracted from the website metadata.  
+Conforms to **Schema.org / Person** and is usable by:
+
+- Google Knowledge Graph  
+- Bing Graph / Satori  
+- Naver Data Linking  
+- DataHub Cloud  
+- Wikibase Cloud  
+
+### **2. `Hamed_Behrouzi_IdentityGraph_Q1.zip`**
+Original Q1 package containing:
+
+- structured metadata  
+- preliminary JSON-LD  
+- dataset descriptors  
+- early M7 Lab identity-mapping files  
+
+### **3. `datapackage.json` (this file)**
+Primary definition file describing metadata, licensing, and data resources  
+according to the **Frictionless Data / DataHub** schema.
+
+---
+
+## 🎯 Purpose & Use Cases
+
+This dataset enables:
+
+- 📌 **Cross-platform identity verification**  
+- 🔗 **Knowledge Graph integration** with Wikidata, IMDb, Zenodo, and academic platforms  
+- 🎬 **Film/VFX professional metadata linking**  
+- 🧪 **AI–Human Ethical Interface research alignment**  
+- 🛰 **Global Talent / Digital Identity portability**  
+- 📚 **Dataset citation in research, profiles, and academic work**  
 
 ---
 
 ## 🔗 Related Links
-- [Zenodo DOI Record](https://doi.org/10.5281/zenodo.17405925)
-- [Official Website](https://hamedbehrouzi.com)
-- [AI Ethical Interface](https://hamedbehrouzi.com/ai-ethical-interface)
-- [Wikidata Mirror](https://www.wikidata.org/wiki/Q137000000)
-- [GitHub Repository](https://github.com/hamedanime-source/hamedbehrouzi-identity-graph)
+
+- **Zenodo DOI Record:**  
+  https://doi.org/10.5281/zenodo.17405925  
+
+- **Official Website:**  
+  https://hamedbehrouzi.com  
+
+- **AI Ethical Interface (M7 Lab):**  
+  https://hamedbehrouzi.com/ai-ethical-interface  
+
+- **Wikidata Mirror:**  
+  https://www.wikidata.org/wiki/Q136452174  
+
+- **GitHub Repository:**  
+  https://github.com/hamedanime-source/hamedbehrouzi-identity-graph  
+
+- **DataHub Dataset:**  
+  *(auto-synced from this repository)*  
 
 ---
 
-## 🧩 Schema Reference
-The dataset follows [Schema.org/Dataset](https://schema.org/Dataset) and [DataCite Metadata Schema v4.4](https://schema.datacite.org/meta/kernel-4.4/).
+## 📥 How to Cite This Dataset
 
-**isBasedOn:** [https://www.wikidata.org/wiki/Q137000000](https://www.wikidata.org/wiki/Q137000000)
-
----
-
-## 🧠 Maintainer
-**Hamed Behrouzi**  
-Lead & Senior Animator | Technical Animator | AI Architect  
-📍 Seoul, South Korea  
-🌐 [https://hamedbehrouzi.com](https://hamedbehrouzi.com)

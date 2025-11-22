@@ -8,7 +8,7 @@
     "@type": "Organization",
     "name": "Scanline VFX / Netflix"
   },
-  "url": "https://hamedbehrouzi.com",
+  "url": "https://hamedbehrouzi.com/identity",
   "image": "https://hamedbehrouzi.com/assets/profile.jpg",
   "address": {
     "@type": "PostalAddress",
@@ -20,20 +20,31 @@
     "https://pro.imdb.com/name/nm10347793/",
     "https://www.themoviedb.org/person/5816284-hamed-behrouzi",
     "https://www.metacritic.com/person/hamed-behrouzi",
+
+    "https://datahub.io/@hamedanime-source/hamedbehrouzi-identity-graph",
+    "https://github.com/hamedanime-source/hamedbehrouzi-identity-graph",
+    "https://hamedbehrouzi.com/identity",
+
     "https://orcid.org/0009-0004-8130-1178",
-    "https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Behrouzi%2C%20Hamed%22",
-    "https://scholar.google.com",
-    "https://www.researchgate.net",
-    "https://philarchive.org",
+    "https://scholar.google.com/citations?user=s34L2DgAAAAJ&hl=en",
+    "https://www.researchgate.net/profile/Hamed-Behrouzi",
+    "https://philarchive.org/rec/BEHEIT",
+    "https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Behrouzi%2C%20hamed%22",
+
     "https://m7lab.wikibase.cloud/",
     "https://www.wikidata.org/wiki/Q136452174",
-    "https://datahub.io",
+
     "https://medium.com/@hamedbehrouzi",
     "https://blog.naver.com/hamedbehrouzi",
+
     "https://vimeo.com/hamedbehrouzi",
     "https://youtube.com/@hamedbehrouzi",
+
     "https://linkedin.com/in/hamedbehrouzi",
-    "https://x.com/hamed_behrouzi"
-  ],
-  "description": "Seoul-based Lead & Senior Technical Animator, AI Architect, and Researcher working in VFX, procedural motion systems, and AI–human ethical interface research."
+    "https://x.com/hamed_behrouzi",
+
+    "https://zerply.com/hamedbehrouzi/public?ref=user-hover-menu",
+    "https://www.artconnect.com/hamed-behrouzi-mYSXGnQGuPTl3R9icBj6Q",
+    "https://www.aiartists.org"
+  ]
 }

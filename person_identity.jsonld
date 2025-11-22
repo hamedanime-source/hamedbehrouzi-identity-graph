@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Hamed Behrouzi",
+  "alternateName": "해메드 베흐로지",
+  "jobTitle": "Lead & Senior Technical Animator, AI Architect, Researcher",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Scanline VFX / Netflix"
+  },
+  "url": "https://hamedbehrouzi.com",
+  "image": "https://hamedbehrouzi.com/assets/profile.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Seoul",
+    "addressCountry": "KR"
+  },
+  "sameAs": [
+    "https://m.imdb.com/name/nm10347793/",
+    "https://pro.imdb.com/name/nm10347793/",
+    "https://www.themoviedb.org/person/5816284-hamed-behrouzi",
+    "https://www.metacritic.com/person/hamed-behrouzi",
+    "https://orcid.org/0009-0004-8130-1178",
+    "https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Behrouzi%2C%20Hamed%22",
+    "https://scholar.google.com",
+    "https://www.researchgate.net",
+    "https://philarchive.org",
+    "https://m7lab.wikibase.cloud/",
+    "https://www.wikidata.org/wiki/Q136452174",
+    "https://datahub.io",
+    "https://medium.com/@hamedbehrouzi",
+    "https://blog.naver.com/hamedbehrouzi",
+    "https://vimeo.com/hamedbehrouzi",
+    "https://youtube.com/@hamedbehrouzi",
+    "https://linkedin.com/in/hamedbehrouzi",
+    "https://x.com/hamed_behrouzi"
+  ],
+  "description": "Seoul-based Lead & Senior Technical Animator, AI Architect, and Researcher working in VFX, procedural motion systems, and AI–human ethical interface research."
+}

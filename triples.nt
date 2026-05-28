@@ -1,0 +1,308 @@
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://www.crunchbase.com/person/hamed-behrouzi> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://filmfreeway.com/HamedBehrouzi> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://scholar.google.com/citations?user=s34L2DgAAAAJ> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://huggingface.co/datasets/HamedBehrouzi/HamedBehrouzi-IdentityGraph-Q1-v02> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://www.imdb.com/name/nm10347793/> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://hamedbehrouzi.com/known-for> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://www.linkedin.com/in/hamedbehrouzi/> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://hamedbehrouzi.com/living-semantic-identity> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://muckrack.com/hamed-behrouzi> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://mydramalist.com/profile/hamedbehrouzi> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://hamedbehrouzi.com> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://orcid.org/0009-0004-8130-1178> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://hamedbehrouzi.com/reference-entity> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://www.researchgate.net/profile/Hamed-Behrouzi> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://www.themoviedb.org/person/5816284-hamed-behrouzi> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://vimeo.com/hamedbehrouzi> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://hamedbehrouzi.wikibase.cloud/wiki/Item:Q1> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://www.youtube.com/@HamedBehrouzi> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://zenodo.org> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://doi.org/10.5281/zenodo.17490218> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/sameAs> <https://zerply.com/hamedbehrouzi> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/hasrole> <https://hamedbehrouzi.com/id/ROLE_004> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/hasrole> <https://hamedbehrouzi.com/id/ROLE_007> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/hasrole> <https://hamedbehrouzi.com/id/ROLE_002> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/hasrole> <https://hamedbehrouzi.com/id/ROLE_001> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/hasrole> <https://hamedbehrouzi.com/id/ROLE_003> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/worksfor> <https://hamedbehrouzi.com/id/ORG_005> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/workedfor> <https://hamedbehrouzi.com/id/ORG_002> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/workedfor> <https://hamedbehrouzi.com/id/ORG_004> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/memberof> <https://hamedbehrouzi.com/id/ORG_001> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/registeredwith> <https://hamedbehrouzi.com/id/ORG_003> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/basedin> <https://hamedbehrouzi.com/id/SEM_011> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/creditedin> <https://hamedbehrouzi.com/id/PROD_008> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/creditedin> <https://hamedbehrouzi.com/id/PROD_013> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/creditedin> <https://hamedbehrouzi.com/id/PROD_012> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/creditedin> <https://hamedbehrouzi.com/id/PROD_011> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/creditedin> <https://hamedbehrouzi.com/id/PROD_010> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/creditedin> <https://hamedbehrouzi.com/id/PROD_001> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/creditedin> <https://hamedbehrouzi.com/id/PROD_003> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/creditedin> <https://hamedbehrouzi.com/id/PROD_014> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/creditedin> <https://hamedbehrouzi.com/id/PROD_009> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/creditedin> <https://hamedbehrouzi.com/id/PROD_007> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/creditedin> <https://hamedbehrouzi.com/id/PROD_006> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/creditedin> <https://hamedbehrouzi.com/id/PROD_002> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/creditedin> <https://hamedbehrouzi.com/id/PROD_005> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/authored> <https://hamedbehrouzi.com/id/RES_008> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/authored> <https://hamedbehrouzi.com/id/RES_003> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/authored> <https://hamedbehrouzi.com/id/RES_006> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/identitylink> <https://hamedbehrouzi.com/id/AUTH_006> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/identitylink> <https://hamedbehrouzi.com/id/AUTH_019> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/identitylink> <https://hamedbehrouzi.com/id/AUTH_010> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/identitylink> <https://hamedbehrouzi.com/id/AUTH_008> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/identitylink> <https://hamedbehrouzi.com/id/AUTH_015> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/publishedon> <https://hamedbehrouzi.com/id/AUTH_023> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/indexedon> <https://hamedbehrouzi.com/id/AUTH_004> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/indexedon> <https://hamedbehrouzi.com/id/AUTH_018> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/publishedon> <https://hamedbehrouzi.com/id/AUTH_016> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/indexedon> <https://hamedbehrouzi.com/id/AUTH_014> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/publishedon> <https://hamedbehrouzi.com/id/AUTH_005> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/identitylink> <https://hamedbehrouzi.com/id/AUTH_021> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/portfolioon> <https://hamedbehrouzi.com/id/AUTH_022> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/portfolioon> <https://hamedbehrouzi.com/id/AUTH_020> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/identitylink> <https://hamedbehrouzi.com/id/AUTH_025> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/pressprofile> <https://hamedbehrouzi.com/id/AUTH_011> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/identitylink> <https://hamedbehrouzi.com/id/AUTH_001> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/identitylink> <https://hamedbehrouzi.com/id/AUTH_002> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/identitylink> <https://hamedbehrouzi.com/id/AUTH_012> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/identitylink> <https://hamedbehrouzi.com/id/AUTH_003> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/recognizedby> <https://hamedbehrouzi.com/id/SEM_002> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/recognizedby> <https://hamedbehrouzi.com/id/SEM_001> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/recognizedby> <https://hamedbehrouzi.com/id/SEM_006> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/recognizedby> <https://hamedbehrouzi.com/id/SEM_003> .
+<https://hamedbehrouzi.com/id/ORG_005> <https://hamedbehrouzi.com/schema/produced> <https://hamedbehrouzi.com/id/PROD_008> .
+<https://hamedbehrouzi.com/id/ORG_005> <https://hamedbehrouzi.com/schema/produced> <https://hamedbehrouzi.com/id/PROD_013> .
+<https://hamedbehrouzi.com/id/ORG_005> <https://hamedbehrouzi.com/schema/produced> <https://hamedbehrouzi.com/id/PROD_012> .
+<https://hamedbehrouzi.com/id/ORG_005> <https://hamedbehrouzi.com/schema/produced> <https://hamedbehrouzi.com/id/PROD_011> .
+<https://hamedbehrouzi.com/id/ORG_005> <https://hamedbehrouzi.com/schema/produced> <https://hamedbehrouzi.com/id/PROD_010> .
+<https://hamedbehrouzi.com/id/RES_008> <https://hamedbehrouzi.com/schema/publishedon> <https://hamedbehrouzi.com/id/AUTH_023> .
+<https://hamedbehrouzi.com/id/RES_003> <https://hamedbehrouzi.com/schema/publishedon> <https://hamedbehrouzi.com/id/AUTH_023> .
+<https://hamedbehrouzi.com/id/RES_003> <https://hamedbehrouzi.com/schema/publishedon> <https://hamedbehrouzi.com/id/AUTH_016> .
+<https://hamedbehrouzi.com/id/RES_006> <https://hamedbehrouzi.com/schema/publishedon> <https://hamedbehrouzi.com/id/AUTH_005> .
+<https://hamedbehrouzi.com/id/RES_006> <https://hamedbehrouzi.com/schema/mirroredon> <https://hamedbehrouzi.com/id/AUTH_021> .
+<https://hamedbehrouzi.com/id/AUTH_006> <https://hamedbehrouzi.com/schema/contributesto> <https://hamedbehrouzi.com/id/SEM_002> .
+<https://hamedbehrouzi.com/id/AUTH_008> <https://hamedbehrouzi.com/schema/contributesto> <https://hamedbehrouzi.com/id/SEM_002> .
+<https://hamedbehrouzi.com/id/AUTH_015> <https://hamedbehrouzi.com/schema/contributesto> <https://hamedbehrouzi.com/id/SEM_002> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/canonicalsource> <https://hamedbehrouzi.com/id/SEM_007> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/canonicalsource> <https://hamedbehrouzi.com/id/SEM_005> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/canonicalsource> <https://hamedbehrouzi.com/id/SEM_010> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/canonicalsource> <https://hamedbehrouzi.com/id/SEM_004> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/alternatename> <https://hamedbehrouzi.com/id/SEM_012> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/alternatename> <https://hamedbehrouzi.com/id/SEM_014> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/alternatename> <https://hamedbehrouzi.com/id/SEM_013> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/architected> <https://hamedbehrouzi.com/id/SEM_009> .
+<https://hamedbehrouzi.com/id/SEM_009> <https://hamedbehrouzi.com/schema/usesinterpretationrule> <https://hamedbehrouzi.com/id/SEM_008> .
+<https://hamedbehrouzi.com/id/ROLE_004> <https://hamedbehrouzi.com/schema/professionalfoundationof> <https://hamedbehrouzi.com/id/ROLE_007> .
+<https://hamedbehrouzi.com/id/ROLE_007> <https://hamedbehrouzi.com/schema/professionalfoundationof> <https://hamedbehrouzi.com/id/ROLE_001> .
+<https://hamedbehrouzi.com/id/ROLE_001> <https://hamedbehrouzi.com/schema/researchextensionof> <https://hamedbehrouzi.com/id/ROLE_003> .
+<https://hamedbehrouzi.com/id/RES_006> <https://hamedbehrouzi.com/schema/documents> <https://hamedbehrouzi.com/id/SEM_009> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/hasrole> <https://hamedbehrouzi.com/id/ROLE_005> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/hasrole> <https://hamedbehrouzi.com/id/ROLE_006> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/creditedin> <https://hamedbehrouzi.com/id/PROD_004> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/authoredorcreated> <https://hamedbehrouzi.com/id/RES_001> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/authoredorcreated> <https://hamedbehrouzi.com/id/RES_004> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/authoredorcreated> <https://hamedbehrouzi.com/id/RES_007> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/authoredorcreated> <https://hamedbehrouzi.com/id/RES_005> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/authoredorcreated> <https://hamedbehrouzi.com/id/RES_002> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/developsorworkswith> <https://hamedbehrouzi.com/id/TECH_005> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/developsorworkswith> <https://hamedbehrouzi.com/id/TECH_006> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/developsorworkswith> <https://hamedbehrouzi.com/id/TECH_008> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/developsorworkswith> <https://hamedbehrouzi.com/id/TECH_007> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/developsorworkswith> <https://hamedbehrouzi.com/id/TECH_002> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/developsorworkswith> <https://hamedbehrouzi.com/id/TECH_003> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/developsorworkswith> <https://hamedbehrouzi.com/id/TECH_009> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/developsorworkswith> <https://hamedbehrouzi.com/id/TECH_001> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/developsorworkswith> <https://hamedbehrouzi.com/id/TECH_004> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/canonicalsource> <https://hamedbehrouzi.com/id/AUTH_013> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/canonicalsource> <https://hamedbehrouzi.com/id/AUTH_009> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/canonicalsource> <https://hamedbehrouzi.com/id/AUTH_017> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/canonicalsource> <https://hamedbehrouzi.com/id/AUTH_007> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/sameas> <https://hamedbehrouzi.com/id/AUTH_006> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/sameas> <https://hamedbehrouzi.com/id/AUTH_012> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/sameas> <https://hamedbehrouzi.com/id/AUTH_015> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/sameas> <https://hamedbehrouzi.com/id/AUTH_024> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/sameas> <https://hamedbehrouzi.com/id/AUTH_008> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/sameas> <https://hamedbehrouzi.com/id/AUTH_011> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/sameas> <https://hamedbehrouzi.com/id/AUTH_001> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/sameas> <https://hamedbehrouzi.com/id/AUTH_002> .
+<https://hamedbehrouzi.com/id/ROLE_005> <https://hamedbehrouzi.com/schema/evolvesinto> <https://hamedbehrouzi.com/id/ROLE_007> .
+<https://hamedbehrouzi.com/id/ROLE_007> <https://hamedbehrouzi.com/schema/supports> <https://hamedbehrouzi.com/id/ROLE_002> .
+<https://hamedbehrouzi.com/id/ROLE_007> <https://hamedbehrouzi.com/schema/evolvesinto> <https://hamedbehrouzi.com/id/ROLE_001> .
+<https://hamedbehrouzi.com/id/ROLE_001> <https://hamedbehrouzi.com/schema/extendsinto> <https://hamedbehrouzi.com/id/ROLE_003> .
+<https://hamedbehrouzi.com/id/RES_007> <https://hamedbehrouzi.com/schema/publishedormirroredon> <https://hamedbehrouzi.com/id/AUTH_017> .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/name> "Hamed Behrouzi" .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://hamedbehrouzi.com/schema/semanticLayer> "identity" .
+<https://hamedbehrouzi.com/id/AUTH_001> <https://schema.org/name> "Crunchbase" .
+<https://hamedbehrouzi.com/id/AUTH_001> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_002> <https://schema.org/name> "Filmfreeway" .
+<https://hamedbehrouzi.com/id/AUTH_002> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_003> <https://schema.org/name> "GitHub" .
+<https://hamedbehrouzi.com/id/AUTH_003> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_004> <https://schema.org/name> "Google Scholar" .
+<https://hamedbehrouzi.com/id/AUTH_004> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_005> <https://schema.org/name> "HuggingFace" .
+<https://hamedbehrouzi.com/id/AUTH_005> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_006> <https://schema.org/name> "Imdb" .
+<https://hamedbehrouzi.com/id/AUTH_006> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_007> <https://schema.org/name> "Known For" .
+<https://hamedbehrouzi.com/id/AUTH_007> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_008> <https://schema.org/name> "Linkedin" .
+<https://hamedbehrouzi.com/id/AUTH_008> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_009> <https://schema.org/name> "Living Semantic Identity" .
+<https://hamedbehrouzi.com/id/AUTH_009> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_010> <https://schema.org/name> "Metacritic" .
+<https://hamedbehrouzi.com/id/AUTH_010> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_011> <https://schema.org/name> "Muckrack" .
+<https://hamedbehrouzi.com/id/AUTH_011> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_012> <https://schema.org/name> "Mydramalist" .
+<https://hamedbehrouzi.com/id/AUTH_012> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_013> <https://schema.org/name> "Official Website" .
+<https://hamedbehrouzi.com/id/AUTH_013> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_014> <https://schema.org/name> "OpenAIRE" .
+<https://hamedbehrouzi.com/id/AUTH_014> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_015> <https://schema.org/name> "Orcid" .
+<https://hamedbehrouzi.com/id/AUTH_015> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_016> <https://schema.org/name> "PhilArchive" .
+<https://hamedbehrouzi.com/id/AUTH_016> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_017> <https://schema.org/name> "Reference Entity" .
+<https://hamedbehrouzi.com/id/AUTH_017> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_018> <https://schema.org/name> "ResearchGate" .
+<https://hamedbehrouzi.com/id/AUTH_018> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_019> <https://schema.org/name> "TMDb" .
+<https://hamedbehrouzi.com/id/AUTH_019> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_020> <https://schema.org/name> "Vimeo" .
+<https://hamedbehrouzi.com/id/AUTH_020> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_021> <https://schema.org/name> "Wikibase Cloud" .
+<https://hamedbehrouzi.com/id/AUTH_021> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_022> <https://schema.org/name> "YouTube" .
+<https://hamedbehrouzi.com/id/AUTH_022> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_023> <https://schema.org/name> "Zenodo" .
+<https://hamedbehrouzi.com/id/AUTH_023> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_024> <https://schema.org/name> "Zenodo Doi" .
+<https://hamedbehrouzi.com/id/AUTH_024> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/AUTH_025> <https://schema.org/name> "Zerply" .
+<https://hamedbehrouzi.com/id/AUTH_025> <https://hamedbehrouzi.com/schema/semanticLayer> "authority" .
+<https://hamedbehrouzi.com/id/ORG_001> <https://schema.org/name> "ACM" .
+<https://hamedbehrouzi.com/id/ORG_001> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/ORG_002> <https://schema.org/name> "Mortarhead Studio" .
+<https://hamedbehrouzi.com/id/ORG_002> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/ORG_003> <https://schema.org/name> "NIA Korea" .
+<https://hamedbehrouzi.com/id/ORG_003> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/ORG_004> <https://schema.org/name> "Praxis Studio" .
+<https://hamedbehrouzi.com/id/ORG_004> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/ORG_005> <https://schema.org/name> "Scanline VFX" .
+<https://hamedbehrouzi.com/id/ORG_005> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/PROD_001> <https://schema.org/name> "Alice in Borderland" .
+<https://hamedbehrouzi.com/id/PROD_001> <https://hamedbehrouzi.com/schema/semanticLayer> "production" .
+<https://hamedbehrouzi.com/id/PROD_002> <https://schema.org/name> "Carter" .
+<https://hamedbehrouzi.com/id/PROD_002> <https://hamedbehrouzi.com/schema/semanticLayer> "production" .
+<https://hamedbehrouzi.com/id/PROD_003> <https://schema.org/name> "Creation of the Gods II" .
+<https://hamedbehrouzi.com/id/PROD_003> <https://hamedbehrouzi.com/schema/semanticLayer> "production" .
+<https://hamedbehrouzi.com/id/PROD_004> <https://schema.org/name> "Creation of the Gods II: Demon Force" .
+<https://hamedbehrouzi.com/id/PROD_004> <https://hamedbehrouzi.com/schema/semanticLayer> "production" .
+<https://hamedbehrouzi.com/id/PROD_005> <https://schema.org/name> "Hansan: Rising Dragon" .
+<https://hamedbehrouzi.com/id/PROD_005> <https://hamedbehrouzi.com/schema/semanticLayer> "production" .
+<https://hamedbehrouzi.com/id/PROD_006> <https://schema.org/name> "Island" .
+<https://hamedbehrouzi.com/id/PROD_006> <https://hamedbehrouzi.com/schema/semanticLayer> "production" .
+<https://hamedbehrouzi.com/id/PROD_007> <https://schema.org/name> "Land of Tanabata" .
+<https://hamedbehrouzi.com/id/PROD_007> <https://hamedbehrouzi.com/schema/semanticLayer> "production" .
+<https://hamedbehrouzi.com/id/PROD_008> <https://schema.org/name> "Monarch: Legacy of Monsters" .
+<https://hamedbehrouzi.com/id/PROD_008> <https://hamedbehrouzi.com/schema/semanticLayer> "production" .
+<https://hamedbehrouzi.com/id/PROD_009> <https://schema.org/name> "Seeking the King" .
+<https://hamedbehrouzi.com/id/PROD_009> <https://hamedbehrouzi.com/schema/semanticLayer> "production" .
+<https://hamedbehrouzi.com/id/PROD_010> <https://schema.org/name> "Sweet Home" .
+<https://hamedbehrouzi.com/id/PROD_010> <https://hamedbehrouzi.com/schema/semanticLayer> "production" .
+<https://hamedbehrouzi.com/id/PROD_011> <https://schema.org/name> "The Old Guard 2" .
+<https://hamedbehrouzi.com/id/PROD_011> <https://hamedbehrouzi.com/schema/semanticLayer> "production" .
+<https://hamedbehrouzi.com/id/PROD_012> <https://schema.org/name> "The Witcher" .
+<https://hamedbehrouzi.com/id/PROD_012> <https://hamedbehrouzi.com/schema/semanticLayer> "production" .
+<https://hamedbehrouzi.com/id/PROD_013> <https://schema.org/name> "Wednesday" .
+<https://hamedbehrouzi.com/id/PROD_013> <https://hamedbehrouzi.com/schema/semanticLayer> "production" .
+<https://hamedbehrouzi.com/id/PROD_014> <https://schema.org/name> "When Life Gives You Tangerines" .
+<https://hamedbehrouzi.com/id/PROD_014> <https://hamedbehrouzi.com/schema/semanticLayer> "production" .
+<https://hamedbehrouzi.com/id/RES_001> <https://schema.org/name> "AI–Human Ethical Interface (M7)" .
+<https://hamedbehrouzi.com/id/RES_001> <https://hamedbehrouzi.com/schema/semanticLayer> "research" .
+<https://hamedbehrouzi.com/id/RES_002> <https://schema.org/name> "Beyond Soil and Blood: Data-Driven Global Citizenship in the Age of AI" .
+<https://hamedbehrouzi.com/id/RES_002> <https://hamedbehrouzi.com/schema/semanticLayer> "research" .
+<https://hamedbehrouzi.com/id/RES_003> <https://schema.org/name> "Empathic Intelligence" .
+<https://hamedbehrouzi.com/id/RES_003> <https://hamedbehrouzi.com/schema/semanticLayer> "research" .
+<https://hamedbehrouzi.com/id/RES_004> <https://schema.org/name> "Empathic Intelligence: The Philosophical Foundations of Ethics in the Age of Artificial Intelligence" .
+<https://hamedbehrouzi.com/id/RES_004> <https://hamedbehrouzi.com/schema/semanticLayer> "research" .
+<https://hamedbehrouzi.com/id/RES_005> <https://schema.org/name> "Identity Graph Mirror / Identity Graph Dataset" .
+<https://hamedbehrouzi.com/id/RES_005> <https://hamedbehrouzi.com/schema/semanticLayer> "research" .
+<https://hamedbehrouzi.com/id/RES_006> <https://schema.org/name> "Living Semantic Identity Graph" .
+<https://hamedbehrouzi.com/id/RES_006> <https://hamedbehrouzi.com/schema/semanticLayer> "research" .
+<https://hamedbehrouzi.com/id/RES_007> <https://schema.org/name> "Living Semantic Identity Graph Dataset" .
+<https://hamedbehrouzi.com/id/RES_007> <https://hamedbehrouzi.com/schema/semanticLayer> "research" .
+<https://hamedbehrouzi.com/id/RES_008> <https://schema.org/name> "M7 Framework" .
+<https://hamedbehrouzi.com/id/RES_008> <https://hamedbehrouzi.com/schema/semanticLayer> "research" .
+<https://hamedbehrouzi.com/id/ROLE_001> <https://schema.org/name> "AI Motion Systems Architect" .
+<https://hamedbehrouzi.com/id/ROLE_001> <https://hamedbehrouzi.com/schema/semanticLayer> "technical_systems" .
+<https://hamedbehrouzi.com/id/ROLE_002> <https://schema.org/name> "Animation Supervisor" .
+<https://hamedbehrouzi.com/id/ROLE_002> <https://hamedbehrouzi.com/schema/semanticLayer> "role" .
+<https://hamedbehrouzi.com/id/ROLE_003> <https://schema.org/name> "Independent AI Ethics Researcher" .
+<https://hamedbehrouzi.com/id/ROLE_003> <https://hamedbehrouzi.com/schema/semanticLayer> "role" .
+<https://hamedbehrouzi.com/id/ROLE_004> <https://schema.org/name> "Lead & Senior Animator" .
+<https://hamedbehrouzi.com/id/ROLE_004> <https://hamedbehrouzi.com/schema/semanticLayer> "role" .
+<https://hamedbehrouzi.com/id/ROLE_005> <https://schema.org/name> "Lead Animator" .
+<https://hamedbehrouzi.com/id/ROLE_005> <https://hamedbehrouzi.com/schema/semanticLayer> "role" .
+<https://hamedbehrouzi.com/id/ROLE_006> <https://schema.org/name> "Senior Animator" .
+<https://hamedbehrouzi.com/id/ROLE_006> <https://hamedbehrouzi.com/schema/semanticLayer> "role" .
+<https://hamedbehrouzi.com/id/ROLE_007> <https://schema.org/name> "Technical Animator" .
+<https://hamedbehrouzi.com/id/ROLE_007> <https://hamedbehrouzi.com/schema/semanticLayer> "role" .
+<https://hamedbehrouzi.com/id/SEM_001> <https://schema.org/name> "Bing Knowledge Panel" .
+<https://hamedbehrouzi.com/id/SEM_001> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/SEM_002> <https://schema.org/name> "Google Knowledge Panel" .
+<https://hamedbehrouzi.com/id/SEM_002> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/SEM_003> <https://schema.org/name> "IRIS Korea Registration" .
+<https://hamedbehrouzi.com/id/SEM_003> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/SEM_004> <https://schema.org/name> "Known For / Filmography Page" .
+<https://hamedbehrouzi.com/id/SEM_004> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/SEM_005> <https://schema.org/name> "Living Semantic Identity Page" .
+<https://hamedbehrouzi.com/id/SEM_005> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/SEM_006> <https://schema.org/name> "Naver Knowledge Panel" .
+<https://hamedbehrouzi.com/id/SEM_006> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/SEM_007> <https://schema.org/name> "Official Website" .
+<https://hamedbehrouzi.com/id/SEM_007> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/SEM_008> <https://schema.org/name> "Production-First Narrative Hierarchy" .
+<https://hamedbehrouzi.com/id/SEM_008> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/SEM_009> <https://schema.org/name> "Reference Entity Architecture" .
+<https://hamedbehrouzi.com/id/SEM_009> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/SEM_010> <https://schema.org/name> "Reference Entity Page" .
+<https://hamedbehrouzi.com/id/SEM_010> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/SEM_011> <https://schema.org/name> "Seoul South Korea" .
+<https://hamedbehrouzi.com/id/SEM_011> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/SEM_012> <https://schema.org/name> "حامد بهروزی" .
+<https://hamedbehrouzi.com/id/SEM_012> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/SEM_013> <https://schema.org/name> "ハメド・ベフルージ" .
+<https://hamedbehrouzi.com/id/SEM_013> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/SEM_014> <https://schema.org/name> "하메드 베루지" .
+<https://hamedbehrouzi.com/id/SEM_014> <https://hamedbehrouzi.com/schema/semanticLayer> "semantic_system" .
+<https://hamedbehrouzi.com/id/TECH_001> <https://schema.org/name> "AI-Assisted Scripting and Tool Development" .
+<https://hamedbehrouzi.com/id/TECH_001> <https://hamedbehrouzi.com/schema/semanticLayer> "technical_systems" .
+<https://hamedbehrouzi.com/id/TECH_002> <https://schema.org/name> "Auto-Ground Motion Synchronization" .
+<https://hamedbehrouzi.com/id/TECH_002> <https://hamedbehrouzi.com/schema/semanticLayer> "technical_systems" .
+<https://hamedbehrouzi.com/id/TECH_003> <https://schema.org/name> "Creature and Tentacle Motion Systems" .
+<https://hamedbehrouzi.com/id/TECH_003> <https://hamedbehrouzi.com/schema/semanticLayer> "technical_systems" .
+<https://hamedbehrouzi.com/id/TECH_004> <https://schema.org/name> "Custom Animation Workflow Optimization" .
+<https://hamedbehrouzi.com/id/TECH_004> <https://hamedbehrouzi.com/schema/semanticLayer> "technical_systems" .
+<https://hamedbehrouzi.com/id/TECH_005> <https://schema.org/name> "Maya Animation Tools" .
+<https://hamedbehrouzi.com/id/TECH_005> <https://hamedbehrouzi.com/schema/semanticLayer> "technical_systems" .
+<https://hamedbehrouzi.com/id/TECH_006> <https://schema.org/name> "Procedural Loop Systems" .
+<https://hamedbehrouzi.com/id/TECH_006> <https://hamedbehrouzi.com/schema/semanticLayer> "technical_systems" .
+<https://hamedbehrouzi.com/id/TECH_007> <https://schema.org/name> "Real-Time Overlap and Follow-Through Modules" .
+<https://hamedbehrouzi.com/id/TECH_007> <https://hamedbehrouzi.com/schema/semanticLayer> "technical_systems" .
+<https://hamedbehrouzi.com/id/TECH_008> <https://schema.org/name> "Rig-Aware Animation Workflows" .
+<https://hamedbehrouzi.com/id/TECH_008> <https://hamedbehrouzi.com/schema/semanticLayer> "technical_systems" .
+<https://hamedbehrouzi.com/id/TECH_009> <https://schema.org/name> "Unreal Engine Interaction Prototypes" .
+<https://hamedbehrouzi.com/id/TECH_009> <https://hamedbehrouzi.com/schema/semanticLayer> "technical_systems" .
+<https://hamedbehrouzi.com/id/PERSON_001> <https://schema.org/subjectOf> <https://hamedbehrouzi.com/domain-governance> .
+<https://hamedbehrouzi.com/domain-governance> <https://schema.org/about> <https://hamedbehrouzi.com/id/PERSON_001> .
+<https://hamedbehrouzi.com/domain-governance> <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/WebPage> .
+<https://hamedbehrouzi.com/domain-governance> <https://schema.org/name> "Semantic Domain Governance" .
+<https://hamedbehrouzi.com/domain-governance> <https://schema.org/description> "Factual disambiguation: film credits do not imply AI ethics expertise. Animation tooling is not autonomous AI. These domains are professionally independent." .
+<https://hamedbehrouzi.com/id/SEM_015> <https://hamedbehrouzi.com/ontology/domain_separates> <https://hamedbehrouzi.com/id/PROD_008> .
+<https://hamedbehrouzi.com/id/SEM_015> <https://hamedbehrouzi.com/ontology/domain_separates> <https://hamedbehrouzi.com/id/PROD_013> .
+<https://hamedbehrouzi.com/id/SEM_015> <https://hamedbehrouzi.com/ontology/domain_clarifies> <https://hamedbehrouzi.com/id/RES_008> .
+<https://hamedbehrouzi.com/id/SEM_015> <https://hamedbehrouzi.com/ontology/domain_clarifies> <https://hamedbehrouzi.com/id/RES_003> .
+<https://hamedbehrouzi.com/id/SEM_015> <https://hamedbehrouzi.com/ontology/governs> <https://hamedbehrouzi.com/id/SEM_009> .

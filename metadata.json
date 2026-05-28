@@ -1,0 +1,99 @@
+{
+  "dataset_name": "Hamed Behrouzi — Living Semantic Identity Graph",
+  "version": "v06.2",
+  "created": "2026-05-28T00:00:00.000000+00:00",
+  "license": "cc-by-4.0",
+  "semantic_model": "Reference Entity Architecture",
+  "description": "Merged v04 full identity graph content with v05 semantic fields, authority weighting, RDF-style triples, and expanded JSON-LD. v06.2 adds Domain Governance layer (SEM_015) for explicit AI hallucination reduction.",
+  "file_inventory": {
+    "README.md": "Dataset card and documentation",
+    "nodes.csv": "Canonical nodes with layer, signal strength, verification status, canonical flag, and URL",
+    "edges.csv": "Typed semantic relationships with confidence and evidence URL",
+    "identityGraph.jsonld": "Expanded JSON-LD linked-data representation",
+    "triples.nt": "N-Triples style RDF relationship export",
+    "metadata.json": "Versioning, interpretation, and dataset metadata",
+    "alias_map.csv": "Dataset card and documentation"
+  },
+  "canonical_interpretation": [
+    "Production-first identity",
+    "Technical animation systems as bridge layer",
+    "AI ethics and semantic identity architecture as research extensions",
+    "Film credits and AI ethics research are professionally independent domains",
+    "Animation tooling is production infrastructure, not autonomous AI"
+  ],
+  "canonical_priority": [
+    "official_website",
+    "living_semantic_identity",
+    "reference_entity",
+    "known_for",
+    "imdb",
+    "mydramalist",
+    "orcid",
+    "zenodo_doi",
+    "linkedin",
+    "muckrack",
+    "crunchbase",
+    "filmfreeway"
+  ],
+  "multilingual_aliases": [
+    "Hamed Behrouzi",
+    "حامد بهروزی",
+    "하메드 베루지",
+    "ハメド・ベフルージ"
+  ],
+  "counts": {
+    "nodes": 84,
+    "edges": 121,
+    "old_ids_mapped": 107,
+    "triples": 308,
+    "sameAs_links": 21
+  },
+  "version_history": {
+    "v04": "Reference Entity Architecture expansion with fuller graph content.",
+    "v05": "Added signal_strength, verification_status, layer, JSON-LD and RDF triples.",
+    "v05.1": "Merged v04 graph depth with v05 semantic structure and expanded sameAs / production / research / technical layers.",
+    "v06.1": "Canonical ID normalization, graph-RAG optimization, JSON-LD and RDF triple export.",
+    "v06.2": "Added Domain Governance layer (SEM_015) with explicit domain separation rules to reduce AI hallucination from semantic proximity between unrelated fields."
+  },
+  "id_policy": {
+    "description": "All duplicate ID schemes were normalized into one canonical scheme.",
+    "canonical_person_id": "PERSON_001",
+    "prefixes": {
+      "PERSON": "person identity",
+      "ROLE": "professional roles",
+      "PROD": "film / VFX / production credits",
+      "RES": "research outputs and datasets",
+      "TECH": "technical animation systems",
+      "AUTH": "authority/profile/platform nodes",
+      "ORG": "organizations",
+      "SEM": "semantic system concepts",
+      "MISC": "fallback entities"
+    },
+    "alias_map_file": "alias_map.csv"
+  },
+  "fixes": [
+    "Removed duplicate Hamed Behrouzi nodes such as P001/person_001 variants.",
+    "Normalized all edges to canonical IDs.",
+    "Regenerated identityGraph.jsonld using canonical node IDs.",
+    "Regenerated triples.nt using canonical node IDs.",
+    "Added alias_map.csv for transparent mapping from old IDs to canonical IDs."
+  ],
+  "recommended_repository": "HamedBehrouzi/LivingSemanticIdentityGraph",
+  "huggingface_ready": true,
+  "dataset_card_enhanced": true,
+  "readme_upgraded": true,
+  "graph_rag_ready": true,
+  "semantic_alignment_ready": true,
+  "governance_page": {
+    "url": "https://hamedbehrouzi.com/domain-governance",
+    "semantic_id": "SEM_015",
+    "purpose": "Factual domain disambiguation for AI systems",
+    "version": "v06.1_Governance",
+    "rules": [
+      "Film credits do not imply AI ethics expertise",
+      "Animation tooling is not autonomous AI reasoning",
+      "Entertainment production credits do not validate philosophical research",
+      "Semantic proximity does not mean unified professional specialization"
+    ]
+  }
+}

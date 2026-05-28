@@ -1,0 +1,1044 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "semanticLayer": "https://hamedbehrouzi.com/schema/semanticLayer",
+    "confidence": "https://hamedbehrouzi.com/schema/confidence",
+    "verificationStatus": "https://hamedbehrouzi.com/schema/verificationStatus",
+    "relation": "https://hamedbehrouzi.com/schema/relation"
+  },
+  "@graph": [
+    {
+      "@id": "https://hamedbehrouzi.com/id/PERSON_001",
+      "@type": "Person",
+      "identifier": "PERSON_001",
+      "name": "Hamed Behrouzi",
+      "alternateName": [
+        "حامد بهروزی",
+        "하메드 베루지",
+        "ハメド・ベフルージ"
+      ],
+      "jobTitle": [
+        "AI Motion Systems Architect",
+        "Animation Supervisor",
+        "Independent AI Ethics Researcher",
+        "Lead & Senior Animator",
+        "Lead Animator",
+        "Senior Animator",
+        "Technical Animator"
+      ],
+      "url": "https://hamedbehrouzi.com",
+      "sameAs": [
+        "https://www.crunchbase.com/person/hamed-behrouzi",
+        "https://filmfreeway.com/HamedBehrouzi",
+        "https://scholar.google.com/citations?user=s34L2DgAAAAJ",
+        "https://huggingface.co/datasets/HamedBehrouzi/HamedBehrouzi-IdentityGraph-Q1-v02",
+        "https://www.imdb.com/name/nm10347793/",
+        "https://hamedbehrouzi.com/known-for",
+        "https://www.linkedin.com/in/hamedbehrouzi/",
+        "https://hamedbehrouzi.com/living-semantic-identity",
+        "https://muckrack.com/hamed-behrouzi",
+        "https://mydramalist.com/profile/hamedbehrouzi",
+        "https://hamedbehrouzi.com",
+        "https://orcid.org/0009-0004-8130-1178",
+        "https://hamedbehrouzi.com/reference-entity",
+        "https://www.researchgate.net/profile/Hamed-Behrouzi",
+        "https://www.themoviedb.org/person/5816284-hamed-behrouzi",
+        "https://vimeo.com/hamedbehrouzi",
+        "https://hamedbehrouzi.wikibase.cloud/wiki/Item:Q1",
+        "https://www.youtube.com/@HamedBehrouzi",
+        "https://zenodo.org",
+        "https://doi.org/10.5281/zenodo.17490218",
+        "https://zerply.com/hamedbehrouzi"
+      ],
+      "knowsAbout": [
+        "Animation",
+        "Technical Animation",
+        "Creature Animation",
+        "Procedural Motion",
+        "AI Motion Systems",
+        "AI Ethics",
+        "Empathic Intelligence",
+        "Semantic Identity Architecture",
+        "Digital Identity Graph Systems"
+      ],
+      "subjectOf": [
+        {
+          "@id": "https://hamedbehrouzi.com/id/PROD_008",
+          "name": "Monarch: Legacy of Monsters"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/PROD_013",
+          "name": "Wednesday"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/PROD_012",
+          "name": "The Witcher"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/PROD_011",
+          "name": "The Old Guard 2"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/PROD_010",
+          "name": "Sweet Home"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/PROD_001",
+          "name": "Alice in Borderland"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/PROD_003",
+          "name": "Creation of the Gods II"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/PROD_014",
+          "name": "When Life Gives You Tangerines"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/PROD_009",
+          "name": "Seeking the King"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/PROD_007",
+          "name": "Land of Tanabata"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/PROD_006",
+          "name": "Island"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/PROD_002",
+          "name": "Carter"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/PROD_005",
+          "name": "Hansan: Rising Dragon"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/PROD_004",
+          "name": "Creation of the Gods II: Demon Force"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/RES_001",
+          "name": "AI–Human Ethical Interface (M7)"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/RES_004",
+          "name": "Empathic Intelligence: The Philosophical Foundations of Ethics in the Age of Artificial Intelligence"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/RES_007",
+          "name": "Living Semantic Identity Graph Dataset"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/RES_005",
+          "name": "Identity Graph Mirror / Identity Graph Dataset"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/id/RES_002",
+          "name": "Beyond Soil and Blood: Data-Driven Global Citizenship in the Age of AI"
+        },
+        {
+          "@id": "https://hamedbehrouzi.com/domain-governance"
+        }
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://hamedbehrouzi.com/reference-entity"
+      }
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_001",
+      "@type": "WebSite",
+      "name": "Crunchbase",
+      "identifier": "AUTH_001",
+      "additionalType": "Platform",
+      "semanticLayer": "authority",
+      "confidence": "0.88",
+      "verificationStatus": "verified",
+      "url": "https://www.crunchbase.com/person/hamed-behrouzi"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_002",
+      "@type": "WebSite",
+      "name": "Filmfreeway",
+      "identifier": "AUTH_002",
+      "additionalType": "Platform",
+      "semanticLayer": "authority",
+      "confidence": "0.88",
+      "verificationStatus": "verified",
+      "url": "https://filmfreeway.com/HamedBehrouzi"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_003",
+      "@type": "WebSite",
+      "name": "GitHub",
+      "identifier": "AUTH_003",
+      "additionalType": "platform",
+      "semanticLayer": "authority",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_004",
+      "@type": "WebSite",
+      "name": "Google Scholar",
+      "identifier": "AUTH_004",
+      "additionalType": "platform",
+      "semanticLayer": "authority",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored",
+      "url": "https://scholar.google.com/citations?user=s34L2DgAAAAJ"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_005",
+      "@type": "WebSite",
+      "name": "HuggingFace",
+      "identifier": "AUTH_005",
+      "additionalType": "platform",
+      "semanticLayer": "authority",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored",
+      "url": "https://huggingface.co/datasets/HamedBehrouzi/HamedBehrouzi-IdentityGraph-Q1-v02"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_006",
+      "@type": "WebSite",
+      "name": "Imdb",
+      "identifier": "AUTH_006",
+      "additionalType": "Platform",
+      "semanticLayer": "authority",
+      "confidence": "0.88",
+      "verificationStatus": "verified",
+      "url": "https://www.imdb.com/name/nm10347793/"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_007",
+      "@type": "WebSite",
+      "name": "Known For",
+      "identifier": "AUTH_007",
+      "additionalType": "Platform",
+      "semanticLayer": "authority",
+      "confidence": "0.88",
+      "verificationStatus": "verified",
+      "url": "https://hamedbehrouzi.com/known-for"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_008",
+      "@type": "WebSite",
+      "name": "Linkedin",
+      "identifier": "AUTH_008",
+      "additionalType": "Platform",
+      "semanticLayer": "authority",
+      "confidence": "0.88",
+      "verificationStatus": "verified",
+      "url": "https://www.linkedin.com/in/hamedbehrouzi/"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_009",
+      "@type": "WebSite",
+      "name": "Living Semantic Identity",
+      "identifier": "AUTH_009",
+      "additionalType": "Platform",
+      "semanticLayer": "authority",
+      "confidence": "0.88",
+      "verificationStatus": "verified",
+      "url": "https://hamedbehrouzi.com/living-semantic-identity"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_010",
+      "@type": "WebSite",
+      "name": "Metacritic",
+      "identifier": "AUTH_010",
+      "additionalType": "platform",
+      "semanticLayer": "authority",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_011",
+      "@type": "WebSite",
+      "name": "Muckrack",
+      "identifier": "AUTH_011",
+      "additionalType": "Platform",
+      "semanticLayer": "authority",
+      "confidence": "0.88",
+      "verificationStatus": "verified",
+      "url": "https://muckrack.com/hamed-behrouzi"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_012",
+      "@type": "WebSite",
+      "name": "Mydramalist",
+      "identifier": "AUTH_012",
+      "additionalType": "Platform",
+      "semanticLayer": "authority",
+      "confidence": "0.88",
+      "verificationStatus": "verified",
+      "url": "https://mydramalist.com/profile/hamedbehrouzi"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_013",
+      "@type": "WebSite",
+      "name": "Official Website",
+      "identifier": "AUTH_013",
+      "additionalType": "Platform",
+      "semanticLayer": "authority",
+      "confidence": "0.88",
+      "verificationStatus": "verified",
+      "url": "https://hamedbehrouzi.com"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_014",
+      "@type": "WebSite",
+      "name": "OpenAIRE",
+      "identifier": "AUTH_014",
+      "additionalType": "platform",
+      "semanticLayer": "authority",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_015",
+      "@type": "WebSite",
+      "name": "Orcid",
+      "identifier": "AUTH_015",
+      "additionalType": "Platform",
+      "semanticLayer": "authority",
+      "confidence": "0.88",
+      "verificationStatus": "verified",
+      "url": "https://orcid.org/0009-0004-8130-1178"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_016",
+      "@type": "WebSite",
+      "name": "PhilArchive",
+      "identifier": "AUTH_016",
+      "additionalType": "platform",
+      "semanticLayer": "authority",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_017",
+      "@type": "WebSite",
+      "name": "Reference Entity",
+      "identifier": "AUTH_017",
+      "additionalType": "Platform",
+      "semanticLayer": "authority",
+      "confidence": "0.88",
+      "verificationStatus": "verified",
+      "url": "https://hamedbehrouzi.com/reference-entity"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_018",
+      "@type": "WebSite",
+      "name": "ResearchGate",
+      "identifier": "AUTH_018",
+      "additionalType": "platform",
+      "semanticLayer": "authority",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored",
+      "url": "https://www.researchgate.net/profile/Hamed-Behrouzi"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_019",
+      "@type": "WebSite",
+      "name": "TMDb",
+      "identifier": "AUTH_019",
+      "additionalType": "platform",
+      "semanticLayer": "authority",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored",
+      "url": "https://www.themoviedb.org/person/5816284-hamed-behrouzi"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_020",
+      "@type": "WebSite",
+      "name": "Vimeo",
+      "identifier": "AUTH_020",
+      "additionalType": "platform",
+      "semanticLayer": "authority",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored",
+      "url": "https://vimeo.com/hamedbehrouzi"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_021",
+      "@type": "WebSite",
+      "name": "Wikibase Cloud",
+      "identifier": "AUTH_021",
+      "additionalType": "platform",
+      "semanticLayer": "authority",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored",
+      "url": "https://hamedbehrouzi.wikibase.cloud/wiki/Item:Q1"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_022",
+      "@type": "WebSite",
+      "name": "YouTube",
+      "identifier": "AUTH_022",
+      "additionalType": "platform",
+      "semanticLayer": "authority",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored",
+      "url": "https://www.youtube.com/@HamedBehrouzi"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_023",
+      "@type": "WebSite",
+      "name": "Zenodo",
+      "identifier": "AUTH_023",
+      "additionalType": "platform",
+      "semanticLayer": "authority",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored",
+      "url": "https://zenodo.org"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_024",
+      "@type": "WebSite",
+      "name": "Zenodo Doi",
+      "identifier": "AUTH_024",
+      "additionalType": "Platform",
+      "semanticLayer": "authority",
+      "confidence": "0.88",
+      "verificationStatus": "verified",
+      "url": "https://doi.org/10.5281/zenodo.17490218"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/AUTH_025",
+      "@type": "WebSite",
+      "name": "Zerply",
+      "identifier": "AUTH_025",
+      "additionalType": "platform",
+      "semanticLayer": "authority",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored",
+      "url": "https://zerply.com/hamedbehrouzi"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/ORG_001",
+      "@type": "Organization",
+      "name": "ACM",
+      "identifier": "ORG_001",
+      "additionalType": "organization",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored",
+      "url": "https://acm.org"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/ORG_002",
+      "@type": "Organization",
+      "name": "Mortarhead Studio",
+      "identifier": "ORG_002",
+      "additionalType": "organization",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/ORG_003",
+      "@type": "Organization",
+      "name": "NIA Korea",
+      "identifier": "ORG_003",
+      "additionalType": "organization",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored",
+      "url": "https://aihub.or.kr"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/ORG_004",
+      "@type": "Organization",
+      "name": "Praxis Studio",
+      "identifier": "ORG_004",
+      "additionalType": "organization",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/ORG_005",
+      "@type": "Organization",
+      "name": "Scanline VFX",
+      "identifier": "ORG_005",
+      "additionalType": "organization",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.90",
+      "verificationStatus": "public_profile_linked",
+      "url": "https://scanlinevfx.com"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/PROD_001",
+      "@type": "CreativeWork",
+      "name": "Alice in Borderland",
+      "identifier": "PROD_001",
+      "additionalType": "CreativeWork",
+      "semanticLayer": "production",
+      "confidence": "0.92",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/PROD_002",
+      "@type": "CreativeWork",
+      "name": "Carter",
+      "identifier": "PROD_002",
+      "additionalType": "CreativeWork",
+      "semanticLayer": "production",
+      "confidence": "0.92",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/PROD_003",
+      "@type": "Thing",
+      "name": "Creation of the Gods II",
+      "identifier": "PROD_003",
+      "additionalType": "production",
+      "semanticLayer": "production",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/PROD_004",
+      "@type": "CreativeWork",
+      "name": "Creation of the Gods II: Demon Force",
+      "identifier": "PROD_004",
+      "additionalType": "CreativeWork",
+      "semanticLayer": "production",
+      "confidence": "0.92",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/PROD_005",
+      "@type": "CreativeWork",
+      "name": "Hansan: Rising Dragon",
+      "identifier": "PROD_005",
+      "additionalType": "CreativeWork",
+      "semanticLayer": "production",
+      "confidence": "0.92",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/PROD_006",
+      "@type": "CreativeWork",
+      "name": "Island",
+      "identifier": "PROD_006",
+      "additionalType": "CreativeWork",
+      "semanticLayer": "production",
+      "confidence": "0.92",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/PROD_007",
+      "@type": "CreativeWork",
+      "name": "Land of Tanabata",
+      "identifier": "PROD_007",
+      "additionalType": "CreativeWork",
+      "semanticLayer": "production",
+      "confidence": "0.92",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/PROD_008",
+      "@type": "CreativeWork",
+      "name": "Monarch: Legacy of Monsters",
+      "identifier": "PROD_008",
+      "additionalType": "CreativeWork",
+      "semanticLayer": "production",
+      "confidence": "0.92",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/PROD_009",
+      "@type": "CreativeWork",
+      "name": "Seeking the King",
+      "identifier": "PROD_009",
+      "additionalType": "CreativeWork",
+      "semanticLayer": "production",
+      "confidence": "0.92",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/PROD_010",
+      "@type": "CreativeWork",
+      "name": "Sweet Home",
+      "identifier": "PROD_010",
+      "additionalType": "CreativeWork",
+      "semanticLayer": "production",
+      "confidence": "0.92",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/PROD_011",
+      "@type": "CreativeWork",
+      "name": "The Old Guard 2",
+      "identifier": "PROD_011",
+      "additionalType": "CreativeWork",
+      "semanticLayer": "production",
+      "confidence": "0.92",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/PROD_012",
+      "@type": "CreativeWork",
+      "name": "The Witcher",
+      "identifier": "PROD_012",
+      "additionalType": "CreativeWork",
+      "semanticLayer": "production",
+      "confidence": "0.92",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/PROD_013",
+      "@type": "CreativeWork",
+      "name": "Wednesday",
+      "identifier": "PROD_013",
+      "additionalType": "CreativeWork",
+      "semanticLayer": "production",
+      "confidence": "0.92",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/PROD_014",
+      "@type": "CreativeWork",
+      "name": "When Life Gives You Tangerines",
+      "identifier": "PROD_014",
+      "additionalType": "CreativeWork",
+      "semanticLayer": "production",
+      "confidence": "0.92",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/RES_001",
+      "@type": "ScholarlyArticle",
+      "name": "AI–Human Ethical Interface (M7)",
+      "identifier": "RES_001",
+      "additionalType": "ScholarlyArticle",
+      "semanticLayer": "research",
+      "confidence": "0.90",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/RES_002",
+      "@type": "ScholarlyArticle",
+      "name": "Beyond Soil and Blood: Data-Driven Global Citizenship in the Age of AI",
+      "identifier": "RES_002",
+      "additionalType": "ScholarlyArticle",
+      "semanticLayer": "research",
+      "confidence": "0.90",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/RES_003",
+      "@type": "Thing",
+      "name": "Empathic Intelligence",
+      "identifier": "RES_003",
+      "additionalType": "research",
+      "semanticLayer": "research",
+      "confidence": "0.84",
+      "verificationStatus": "doi_or_profile_linked"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/RES_004",
+      "@type": "ScholarlyArticle",
+      "name": "Empathic Intelligence: The Philosophical Foundations of Ethics in the Age of Artificial Intelligence",
+      "identifier": "RES_004",
+      "additionalType": "ScholarlyArticle",
+      "semanticLayer": "research",
+      "confidence": "0.90",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/RES_005",
+      "@type": "Dataset",
+      "name": "Identity Graph Mirror / Identity Graph Dataset",
+      "identifier": "RES_005",
+      "additionalType": "Dataset",
+      "semanticLayer": "research",
+      "confidence": "0.90",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/RES_006",
+      "@type": "Thing",
+      "name": "Living Semantic Identity Graph",
+      "identifier": "RES_006",
+      "additionalType": "research",
+      "semanticLayer": "research",
+      "confidence": "0.96",
+      "verificationStatus": "canonical_dataset",
+      "url": "https://huggingface.co/datasets/HamedBehrouzi/HamedBehrouzi-IdentityGraph-Q1-v02"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/RES_007",
+      "@type": "Dataset",
+      "name": "Living Semantic Identity Graph Dataset",
+      "identifier": "RES_007",
+      "additionalType": "Dataset",
+      "semanticLayer": "research",
+      "confidence": "0.90",
+      "verificationStatus": "verified"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/RES_008",
+      "@type": "Thing",
+      "name": "M7 Framework",
+      "identifier": "RES_008",
+      "additionalType": "research",
+      "semanticLayer": "research",
+      "confidence": "0.88",
+      "verificationStatus": "doi_or_profile_linked",
+      "url": "https://hamedbehrouzi.com/ai-ethical-interface-page"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/ROLE_001",
+      "@type": "Role",
+      "name": "AI Motion Systems Architect",
+      "identifier": "ROLE_001",
+      "additionalType": "role",
+      "semanticLayer": "technical_systems",
+      "confidence": "0.88",
+      "verificationStatus": "self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/ROLE_002",
+      "@type": "Role",
+      "name": "Animation Supervisor",
+      "identifier": "ROLE_002",
+      "additionalType": "Role",
+      "semanticLayer": "role",
+      "confidence": "0.86",
+      "verificationStatus": "self-authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/ROLE_003",
+      "@type": "Role",
+      "name": "Independent AI Ethics Researcher",
+      "identifier": "ROLE_003",
+      "additionalType": "Role",
+      "semanticLayer": "role",
+      "confidence": "0.86",
+      "verificationStatus": "self-authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/ROLE_004",
+      "@type": "Role",
+      "name": "Lead & Senior Animator",
+      "identifier": "ROLE_004",
+      "additionalType": "role",
+      "semanticLayer": "role",
+      "confidence": "0.95",
+      "verificationStatus": "self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/ROLE_005",
+      "@type": "Role",
+      "name": "Lead Animator",
+      "identifier": "ROLE_005",
+      "additionalType": "Role",
+      "semanticLayer": "role",
+      "confidence": "0.86",
+      "verificationStatus": "self-authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/ROLE_006",
+      "@type": "Role",
+      "name": "Senior Animator",
+      "identifier": "ROLE_006",
+      "additionalType": "Role",
+      "semanticLayer": "role",
+      "confidence": "0.86",
+      "verificationStatus": "self-authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/ROLE_007",
+      "@type": "Role",
+      "name": "Technical Animator",
+      "identifier": "ROLE_007",
+      "additionalType": "role",
+      "semanticLayer": "role",
+      "confidence": "0.94",
+      "verificationStatus": "self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/SEM_001",
+      "@type": "Thing",
+      "name": "Bing Knowledge Panel",
+      "identifier": "SEM_001",
+      "additionalType": "recognition",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/SEM_002",
+      "@type": "Thing",
+      "name": "Google Knowledge Panel",
+      "identifier": "SEM_002",
+      "additionalType": "recognition",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/SEM_003",
+      "@type": "Thing",
+      "name": "IRIS Korea Registration",
+      "identifier": "SEM_003",
+      "additionalType": "recognition",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/SEM_004",
+      "@type": "Thing",
+      "name": "Known For / Filmography Page",
+      "identifier": "SEM_004",
+      "additionalType": "canonical_source",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.96",
+      "verificationStatus": "canonical_self_authored",
+      "url": "https://hamedbehrouzi.com/known-for"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/SEM_005",
+      "@type": "Thing",
+      "name": "Living Semantic Identity Page",
+      "identifier": "SEM_005",
+      "additionalType": "canonical_source",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.98",
+      "verificationStatus": "canonical_self_authored",
+      "url": "https://hamedbehrouzi.com/living-semantic-identity"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/SEM_006",
+      "@type": "Thing",
+      "name": "Naver Knowledge Panel",
+      "identifier": "SEM_006",
+      "additionalType": "recognition",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.70",
+      "verificationStatus": "public_or_self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/SEM_007",
+      "@type": "Thing",
+      "name": "Official Website",
+      "identifier": "SEM_007",
+      "additionalType": "canonical_source",
+      "semanticLayer": "semantic_system",
+      "confidence": "1.00",
+      "verificationStatus": "canonical_self_authored",
+      "url": "https://hamedbehrouzi.com"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/SEM_008",
+      "@type": "Thing",
+      "name": "Production-First Narrative Hierarchy",
+      "identifier": "SEM_008",
+      "additionalType": "interpretation_rule",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.94",
+      "verificationStatus": "self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/SEM_009",
+      "@type": "Thing",
+      "name": "Reference Entity Architecture",
+      "identifier": "SEM_009",
+      "additionalType": "semantic_system",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.95",
+      "verificationStatus": "canonical_self_authored",
+      "url": "https://hamedbehrouzi.com/reference-entity"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/SEM_010",
+      "@type": "Thing",
+      "name": "Reference Entity Page",
+      "identifier": "SEM_010",
+      "additionalType": "canonical_source",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.97",
+      "verificationStatus": "canonical_self_authored",
+      "url": "https://hamedbehrouzi.com/reference-entity"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/SEM_011",
+      "@type": "Thing",
+      "name": "Seoul South Korea",
+      "identifier": "SEM_011",
+      "additionalType": "location",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.75",
+      "verificationStatus": "self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/SEM_012",
+      "@type": "Thing",
+      "name": "حامد بهروزی",
+      "identifier": "SEM_012",
+      "additionalType": "alias",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.82",
+      "verificationStatus": "self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/SEM_013",
+      "@type": "Thing",
+      "name": "ハメド・ベフルージ",
+      "identifier": "SEM_013",
+      "additionalType": "alias",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.80",
+      "verificationStatus": "self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/SEM_014",
+      "@type": "Thing",
+      "name": "하메드 베루지",
+      "identifier": "SEM_014",
+      "additionalType": "alias",
+      "semanticLayer": "semantic_system",
+      "confidence": "0.80",
+      "verificationStatus": "self_authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/TECH_001",
+      "@type": "Thing",
+      "name": "AI-Assisted Scripting and Tool Development",
+      "identifier": "TECH_001",
+      "additionalType": "TechnicalSystem",
+      "semanticLayer": "technical_systems",
+      "confidence": "0.82",
+      "verificationStatus": "self-authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/TECH_002",
+      "@type": "Thing",
+      "name": "Auto-Ground Motion Synchronization",
+      "identifier": "TECH_002",
+      "additionalType": "TechnicalSystem",
+      "semanticLayer": "technical_systems",
+      "confidence": "0.82",
+      "verificationStatus": "self-authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/TECH_003",
+      "@type": "Thing",
+      "name": "Creature and Tentacle Motion Systems",
+      "identifier": "TECH_003",
+      "additionalType": "TechnicalSystem",
+      "semanticLayer": "technical_systems",
+      "confidence": "0.82",
+      "verificationStatus": "self-authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/TECH_004",
+      "@type": "Thing",
+      "name": "Custom Animation Workflow Optimization",
+      "identifier": "TECH_004",
+      "additionalType": "TechnicalSystem",
+      "semanticLayer": "technical_systems",
+      "confidence": "0.82",
+      "verificationStatus": "self-authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/TECH_005",
+      "@type": "Thing",
+      "name": "Maya Animation Tools",
+      "identifier": "TECH_005",
+      "additionalType": "TechnicalSystem",
+      "semanticLayer": "technical_systems",
+      "confidence": "0.82",
+      "verificationStatus": "self-authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/TECH_006",
+      "@type": "Thing",
+      "name": "Procedural Loop Systems",
+      "identifier": "TECH_006",
+      "additionalType": "TechnicalSystem",
+      "semanticLayer": "technical_systems",
+      "confidence": "0.82",
+      "verificationStatus": "self-authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/TECH_007",
+      "@type": "Thing",
+      "name": "Real-Time Overlap and Follow-Through Modules",
+      "identifier": "TECH_007",
+      "additionalType": "TechnicalSystem",
+      "semanticLayer": "technical_systems",
+      "confidence": "0.82",
+      "verificationStatus": "self-authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/TECH_008",
+      "@type": "Thing",
+      "name": "Rig-Aware Animation Workflows",
+      "identifier": "TECH_008",
+      "additionalType": "TechnicalSystem",
+      "semanticLayer": "technical_systems",
+      "confidence": "0.82",
+      "verificationStatus": "self-authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/id/TECH_009",
+      "@type": "Thing",
+      "name": "Unreal Engine Interaction Prototypes",
+      "identifier": "TECH_009",
+      "additionalType": "TechnicalSystem",
+      "semanticLayer": "technical_systems",
+      "confidence": "0.82",
+      "verificationStatus": "self-authored"
+    },
+    {
+      "@id": "https://hamedbehrouzi.com/domain-governance",
+      "@type": "WebPage",
+      "name": "Semantic Domain Governance",
+      "url": "https://hamedbehrouzi.com/domain-governance",
+      "description": "Factual disambiguation: film credits do not imply AI ethics expertise. Animation tooling is not autonomous AI. These domains are professionally independent.",
+      "about": {
+        "@id": "https://hamedbehrouzi.com/#person"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "semanticLayer",
+          "value": "SEM_015"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "purpose",
+          "value": "AI hallucination reduction via explicit domain separation"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "governanceRule_1",
+          "value": "Film credits do not imply AI ethics expertise"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "governanceRule_2",
+          "value": "Animation tooling is not autonomous AI reasoning"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "governanceRule_3",
+          "value": "Entertainment production credits do not validate philosophical research"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "governanceRule_4",
+          "value": "Semantic proximity between domain names does not mean unified expertise"
+        }
+      ]
+    }
+  ]
+}

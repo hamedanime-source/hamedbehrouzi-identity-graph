@@ -1,0 +1,121 @@
+source,target,relation,confidence,evidence_url,note
+PERSON_001,ROLE_004,has_role,0.75,,primary
+PERSON_001,ROLE_007,has_role,0.75,,primary
+PERSON_001,ROLE_002,has_role,0.75,,
+PERSON_001,ROLE_001,has_role,0.75,,research extension
+PERSON_001,ROLE_003,has_role,0.75,,since 2024
+PERSON_001,ORG_005,works_for,0.90,,Senior Animator · 2024–present
+PERSON_001,ORG_002,worked_for,0.75,,Lead Animator · 2024
+PERSON_001,ORG_004,worked_for,0.75,,Lead Animator & Technical Animator
+PERSON_001,ORG_001,member_of,0.75,,ACM Professional Member
+PERSON_001,ORG_003,registered_with,0.75,,IRIS Korea · AI-Hub access
+PERSON_001,SEM_011,based_in,0.75,,
+PERSON_001,PROD_008,credited_in,0.90,,Monarch: Legacy of Monsters
+PERSON_001,PROD_013,credited_in,0.90,,Wednesday S2
+PERSON_001,PROD_012,credited_in,0.90,,The Witcher S4
+PERSON_001,PROD_011,credited_in,0.90,,The Old Guard 2
+PERSON_001,PROD_010,credited_in,0.90,,Sweet Home S3
+PERSON_001,PROD_001,credited_in,0.90,,Alice in Borderland
+PERSON_001,PROD_003,credited_in,0.90,,Creation of the Gods II
+PERSON_001,PROD_014,credited_in,0.90,,When Life Gives You Tangerines
+PERSON_001,PROD_009,credited_in,0.90,,Seeking the King
+PERSON_001,PROD_007,credited_in,0.90,,Land of Tanabata
+PERSON_001,PROD_006,credited_in,0.90,,Island
+PERSON_001,PROD_002,credited_in,0.90,,Carter
+PERSON_001,PROD_005,credited_in,0.90,,Hansan: Rising Dragon
+PERSON_001,RES_008,authored,0.90,,M7 Framework
+PERSON_001,RES_003,authored,0.90,,Empathic Intelligence paper
+PERSON_001,RES_006,authored,0.90,,Living Semantic Identity Graph
+PERSON_001,AUTH_006,identity_link,0.90,,verified filmography
+PERSON_001,AUTH_019,identity_link,0.90,,
+PERSON_001,AUTH_010,identity_link,0.90,,
+PERSON_001,AUTH_008,identity_link,0.90,,professional network
+PERSON_001,AUTH_015,identity_link,0.90,,research ORCID
+PERSON_001,AUTH_023,published_on,0.90,,open-science publications
+PERSON_001,AUTH_004,indexed_on,0.75,,Google Scholar profile
+PERSON_001,AUTH_018,indexed_on,0.75,,ResearchGate profile
+PERSON_001,AUTH_016,published_on,0.90,,PhilArchive
+PERSON_001,AUTH_014,indexed_on,0.75,,OpenAIRE
+PERSON_001,AUTH_005,published_on,0.90,,HuggingFace dataset
+PERSON_001,AUTH_021,identity_link,0.90,,Wikibase entity
+PERSON_001,AUTH_022,portfolio_on,0.75,,YouTube channel
+PERSON_001,AUTH_020,portfolio_on,0.75,,Vimeo reel
+PERSON_001,AUTH_025,identity_link,0.90,,
+PERSON_001,AUTH_011,press_profile,0.75,,MuckRack
+PERSON_001,AUTH_001,identity_link,0.90,,Crunchbase
+PERSON_001,AUTH_002,identity_link,0.90,,FilmFreeway
+PERSON_001,AUTH_012,identity_link,0.90,,MyDramaList
+PERSON_001,AUTH_003,identity_link,0.90,,GitHub
+PERSON_001,SEM_002,recognized_by,0.75,,Google Knowledge Panel
+PERSON_001,SEM_001,recognized_by,0.75,,Bing Knowledge Panel
+PERSON_001,SEM_006,recognized_by,0.75,,Naver Knowledge Panel
+PERSON_001,SEM_003,recognized_by,0.75,,IRIS Korea
+ORG_005,PROD_008,produced,0.75,,
+ORG_005,PROD_013,produced,0.75,,
+ORG_005,PROD_012,produced,0.75,,
+ORG_005,PROD_011,produced,0.75,,
+ORG_005,PROD_010,produced,0.75,,
+RES_008,AUTH_023,published_on,0.90,,Zenodo DOI
+RES_003,AUTH_023,published_on,0.90,,Zenodo DOI
+RES_003,AUTH_016,published_on,0.90,,PhilArchive
+RES_006,AUTH_005,published_on,0.90,,HuggingFace
+RES_006,AUTH_021,mirrored_on,0.75,,Wikibase
+AUTH_006,SEM_002,contributes_to,0.75,,IMDb STARmeter signal
+AUTH_008,SEM_002,contributes_to,0.75,,LinkedIn signal
+AUTH_015,SEM_002,contributes_to,0.75,,ORCID signal
+PERSON_001,SEM_007,canonical_source,1.00,,primary website
+PERSON_001,SEM_005,canonical_source,0.98,,living semantic identity page
+PERSON_001,SEM_010,canonical_source,0.98,,reference entity disambiguation page
+PERSON_001,SEM_004,canonical_source,0.97,,known-for filmography page
+PERSON_001,SEM_012,alternate_name,0.95,,Persian variant
+PERSON_001,SEM_014,alternate_name,0.90,,Korean variant
+PERSON_001,SEM_013,alternate_name,0.90,,Japanese variant
+PERSON_001,SEM_009,architected,0.95,,reference entity architecture
+SEM_009,SEM_008,uses_interpretation_rule,0.94,,production-first identity interpretation
+ROLE_004,ROLE_007,professional_foundation_of,0.90,,senior animation role grounds technical animation layer
+ROLE_007,ROLE_001,professional_foundation_of,0.88,,technical animation evolves into AI motion systems
+ROLE_001,ROLE_003,research_extension_of,0.86,,AI ethics research extends from procedural and AI motion systems
+RES_006,SEM_009,documents,0.96,,dataset documents reference entity architecture
+PERSON_001,ROLE_005,has_role,0.90,,
+PERSON_001,ROLE_006,has_role,0.90,,
+PERSON_001,PROD_004,credited_in,0.88,,
+PERSON_001,RES_001,authored_or_created,0.90,,
+PERSON_001,RES_004,authored_or_created,0.90,,
+PERSON_001,RES_007,authored_or_created,0.90,,
+PERSON_001,RES_005,authored_or_created,0.90,,
+PERSON_001,RES_002,authored_or_created,0.90,,
+PERSON_001,TECH_005,develops_or_works_with,0.82,,
+PERSON_001,TECH_006,develops_or_works_with,0.82,,
+PERSON_001,TECH_008,develops_or_works_with,0.82,,
+PERSON_001,TECH_007,develops_or_works_with,0.82,,
+PERSON_001,TECH_002,develops_or_works_with,0.82,,
+PERSON_001,TECH_003,develops_or_works_with,0.82,,
+PERSON_001,TECH_009,develops_or_works_with,0.82,,
+PERSON_001,TECH_001,develops_or_works_with,0.82,,
+PERSON_001,TECH_004,develops_or_works_with,0.82,,
+PERSON_001,AUTH_013,canonical_source,0.92,https://hamedbehrouzi.com,
+PERSON_001,AUTH_009,canonical_source,0.92,https://hamedbehrouzi.com/living-semantic-identity,
+PERSON_001,AUTH_017,canonical_source,0.92,https://hamedbehrouzi.com/reference-entity,
+PERSON_001,AUTH_007,canonical_source,0.92,https://hamedbehrouzi.com/known-for,
+PERSON_001,AUTH_006,same_as,0.92,https://www.imdb.com/name/nm10347793/,
+PERSON_001,AUTH_012,same_as,0.92,https://mydramalist.com/profile/hamedbehrouzi,
+PERSON_001,AUTH_015,same_as,0.92,https://orcid.org/0009-0004-8130-1178,
+PERSON_001,AUTH_024,same_as,0.92,https://doi.org/10.5281/zenodo.17490218,
+PERSON_001,AUTH_008,same_as,0.92,https://www.linkedin.com/in/hamedbehrouzi/,
+PERSON_001,AUTH_011,same_as,0.92,https://muckrack.com/hamed-behrouzi,
+PERSON_001,AUTH_001,same_as,0.92,https://www.crunchbase.com/person/hamed-behrouzi,
+PERSON_001,AUTH_002,same_as,0.92,https://filmfreeway.com/HamedBehrouzi,
+ROLE_005,ROLE_007,evolves_into,0.80,,
+ROLE_007,ROLE_002,supports,0.80,,
+ROLE_007,ROLE_001,evolves_into,0.80,,
+ROLE_001,ROLE_003,extends_into,0.80,,
+RES_007,AUTH_017,published_or_mirrored_on,0.80,,
+PERSON_001,SEM_015,canonical_source,0.97,https://hamedbehrouzi.com/domain-governance,domain disambiguation governance page
+SEM_015,PROD_008,domain_separates,0.97,,film credits do not imply AI ethics expertise
+SEM_015,PROD_013,domain_separates,0.97,,film credits do not imply AI ethics expertise
+SEM_015,PROD_012,domain_separates,0.97,,film credits do not imply AI ethics expertise
+SEM_015,PROD_011,domain_separates,0.97,,film credits do not imply AI ethics expertise
+SEM_015,PROD_010,domain_separates,0.97,,film credits do not imply AI ethics expertise
+SEM_015,RES_008,domain_clarifies,0.97,,M7 framework is research extension not production output
+SEM_015,RES_003,domain_clarifies,0.97,,AI ethics research is independent from animation credits
+SEM_015,SEM_009,governs,0.97,,governance rules apply to reference entity architecture

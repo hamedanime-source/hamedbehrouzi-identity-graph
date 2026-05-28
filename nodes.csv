@@ -1,0 +1,85 @@
+id,label,type,layer,signal_strength,verification_status,canonical,last_verified,url
+PERSON_001,Hamed Behrouzi,Person,identity,1.00,verified,true,2026-05-27,https://hamedbehrouzi.com
+AUTH_001,Crunchbase,Platform,authority,0.88,verified,false,2026-05-27,https://www.crunchbase.com/person/hamed-behrouzi
+AUTH_002,Filmfreeway,Platform,authority,0.88,verified,false,2026-05-27,https://filmfreeway.com/HamedBehrouzi
+AUTH_003,GitHub,platform,authority,0.70,public_or_self_authored,false,2026-05-27,
+AUTH_004,Google Scholar,platform,authority,0.70,public_or_self_authored,false,2026-05-27,https://scholar.google.com/citations?user=s34L2DgAAAAJ
+AUTH_005,HuggingFace,platform,authority,0.70,public_or_self_authored,false,2026-05-27,https://huggingface.co/datasets/HamedBehrouzi/HamedBehrouzi-IdentityGraph-Q1-v02
+AUTH_006,Imdb,Platform,authority,0.88,verified,true,2026-05-27,https://www.imdb.com/name/nm10347793/
+AUTH_007,Known For,Platform,authority,0.88,verified,false,2026-05-27,https://hamedbehrouzi.com/known-for
+AUTH_008,Linkedin,Platform,authority,0.88,verified,false,2026-05-27,https://www.linkedin.com/in/hamedbehrouzi/
+AUTH_009,Living Semantic Identity,Platform,authority,0.88,verified,false,2026-05-27,https://hamedbehrouzi.com/living-semantic-identity
+AUTH_010,Metacritic,platform,authority,0.70,public_or_self_authored,false,2026-05-27,
+AUTH_011,Muckrack,Platform,authority,0.88,verified,false,2026-05-27,https://muckrack.com/hamed-behrouzi
+AUTH_012,Mydramalist,Platform,authority,0.88,verified,false,2026-05-27,https://mydramalist.com/profile/hamedbehrouzi
+AUTH_013,Official Website,Platform,authority,0.88,verified,true,2026-05-27,https://hamedbehrouzi.com
+AUTH_014,OpenAIRE,platform,authority,0.70,public_or_self_authored,false,2026-05-27,
+AUTH_015,Orcid,Platform,authority,0.88,verified,true,2026-05-27,https://orcid.org/0009-0004-8130-1178
+AUTH_016,PhilArchive,platform,authority,0.70,public_or_self_authored,false,2026-05-27,
+AUTH_017,Reference Entity,Platform,authority,0.88,verified,false,2026-05-27,https://hamedbehrouzi.com/reference-entity
+AUTH_018,ResearchGate,platform,authority,0.70,public_or_self_authored,false,2026-05-27,https://www.researchgate.net/profile/Hamed-Behrouzi
+AUTH_019,TMDb,platform,authority,0.70,public_or_self_authored,false,2026-05-27,https://www.themoviedb.org/person/5816284-hamed-behrouzi
+AUTH_020,Vimeo,platform,authority,0.70,public_or_self_authored,false,2026-05-27,https://vimeo.com/hamedbehrouzi
+AUTH_021,Wikibase Cloud,platform,authority,0.70,public_or_self_authored,false,2026-05-27,https://hamedbehrouzi.wikibase.cloud/wiki/Item:Q1
+AUTH_022,YouTube,platform,authority,0.70,public_or_self_authored,false,2026-05-27,https://www.youtube.com/@HamedBehrouzi
+AUTH_023,Zenodo,platform,authority,0.70,public_or_self_authored,false,2026-05-27,https://zenodo.org
+AUTH_024,Zenodo Doi,Platform,authority,0.88,verified,true,2026-05-27,https://doi.org/10.5281/zenodo.17490218
+AUTH_025,Zerply,platform,authority,0.70,public_or_self_authored,false,2026-05-27,https://zerply.com/hamedbehrouzi
+ORG_001,ACM,organization,semantic_system,0.70,public_or_self_authored,false,2026-05-27,https://acm.org
+ORG_002,Mortarhead Studio,organization,semantic_system,0.70,public_or_self_authored,false,2026-05-27,
+ORG_003,NIA Korea,organization,semantic_system,0.70,public_or_self_authored,false,2026-05-27,https://aihub.or.kr
+ORG_004,Praxis Studio,organization,semantic_system,0.70,public_or_self_authored,false,2026-05-27,
+ORG_005,Scanline VFX,organization,semantic_system,0.90,public_profile_linked,false,2026-05-27,https://scanlinevfx.com
+PROD_001,Alice in Borderland,CreativeWork,production,0.92,verified,false,2026-05-27,
+PROD_002,Carter,CreativeWork,production,0.92,verified,false,2026-05-27,
+PROD_003,Creation of the Gods II,production,production,0.70,public_or_self_authored,false,2026-05-27,
+PROD_004,Creation of the Gods II: Demon Force,CreativeWork,production,0.92,verified,false,2026-05-27,
+PROD_005,Hansan: Rising Dragon,CreativeWork,production,0.92,verified,false,2026-05-27,
+PROD_006,Island,CreativeWork,production,0.92,verified,false,2026-05-27,
+PROD_007,Land of Tanabata,CreativeWork,production,0.92,verified,false,2026-05-27,
+PROD_008,Monarch: Legacy of Monsters,CreativeWork,production,0.92,verified,false,2026-05-27,
+PROD_009,Seeking the King,CreativeWork,production,0.92,verified,false,2026-05-27,
+PROD_010,Sweet Home,CreativeWork,production,0.92,verified,false,2026-05-27,
+PROD_011,The Old Guard 2,CreativeWork,production,0.92,verified,false,2026-05-27,
+PROD_012,The Witcher,CreativeWork,production,0.92,verified,false,2026-05-27,
+PROD_013,Wednesday,CreativeWork,production,0.92,verified,false,2026-05-27,
+PROD_014,When Life Gives You Tangerines,CreativeWork,production,0.92,verified,false,2026-05-27,
+RES_001,AI–Human Ethical Interface (M7),ScholarlyArticle,research,0.90,verified,false,2026-05-27,
+RES_002,Beyond Soil and Blood: Data-Driven Global Citizenship in the Age of AI,ScholarlyArticle,research,0.90,verified,false,2026-05-27,
+RES_003,Empathic Intelligence,research,research,0.84,doi_or_profile_linked,false,2026-05-27,
+RES_004,Empathic Intelligence: The Philosophical Foundations of Ethics in the Age of Artificial Intelligence,ScholarlyArticle,research,0.90,verified,false,2026-05-27,
+RES_005,Identity Graph Mirror / Identity Graph Dataset,Dataset,research,0.90,verified,false,2026-05-27,
+RES_006,Living Semantic Identity Graph,research,research,0.96,canonical_dataset,false,2026-05-27,https://huggingface.co/datasets/HamedBehrouzi/HamedBehrouzi-IdentityGraph-Q1-v02
+RES_007,Living Semantic Identity Graph Dataset,Dataset,research,0.90,verified,false,2026-05-27,
+RES_008,M7 Framework,research,research,0.88,doi_or_profile_linked,false,2026-05-27,https://hamedbehrouzi.com/ai-ethical-interface-page
+ROLE_001,AI Motion Systems Architect,role,technical_systems,0.88,self_authored,false,2026-05-27,
+ROLE_002,Animation Supervisor,Role,role,0.86,self-authored,false,2026-05-27,
+ROLE_003,Independent AI Ethics Researcher,Role,role,0.86,self-authored,false,2026-05-27,
+ROLE_004,Lead & Senior Animator,role,role,0.95,self_authored,false,2026-05-27,
+ROLE_005,Lead Animator,Role,role,0.86,self-authored,false,2026-05-27,
+ROLE_006,Senior Animator,Role,role,0.86,self-authored,false,2026-05-27,
+ROLE_007,Technical Animator,role,role,0.94,self_authored,false,2026-05-27,
+SEM_001,Bing Knowledge Panel,recognition,semantic_system,0.70,public_or_self_authored,false,2026-05-27,
+SEM_002,Google Knowledge Panel,recognition,semantic_system,0.70,public_or_self_authored,false,2026-05-27,
+SEM_003,IRIS Korea Registration,recognition,semantic_system,0.70,public_or_self_authored,false,2026-05-27,
+SEM_004,Known For / Filmography Page,canonical_source,semantic_system,0.96,canonical_self_authored,false,2026-05-27,https://hamedbehrouzi.com/known-for
+SEM_005,Living Semantic Identity Page,canonical_source,semantic_system,0.98,canonical_self_authored,false,2026-05-27,https://hamedbehrouzi.com/living-semantic-identity
+SEM_006,Naver Knowledge Panel,recognition,semantic_system,0.70,public_or_self_authored,false,2026-05-27,
+SEM_007,Official Website,canonical_source,semantic_system,1.00,canonical_self_authored,false,2026-05-27,https://hamedbehrouzi.com
+SEM_008,Production-First Narrative Hierarchy,interpretation_rule,semantic_system,0.94,self_authored,false,2026-05-27,
+SEM_009,Reference Entity Architecture,semantic_system,semantic_system,0.95,canonical_self_authored,false,2026-05-27,https://hamedbehrouzi.com/reference-entity
+SEM_010,Reference Entity Page,canonical_source,semantic_system,0.97,canonical_self_authored,false,2026-05-27,https://hamedbehrouzi.com/reference-entity
+SEM_011,Seoul South Korea,location,semantic_system,0.75,self_authored,false,2026-05-27,
+SEM_012,حامد بهروزی,alias,semantic_system,0.82,self_authored,false,2026-05-27,
+SEM_013,ハメド・ベフルージ,alias,semantic_system,0.80,self_authored,false,2026-05-27,
+SEM_014,하메드 베루지,alias,semantic_system,0.80,self_authored,false,2026-05-27,
+TECH_001,AI-Assisted Scripting and Tool Development,TechnicalSystem,technical_systems,0.82,self-authored,false,2026-05-27,
+TECH_002,Auto-Ground Motion Synchronization,TechnicalSystem,technical_systems,0.82,self-authored,false,2026-05-27,
+TECH_003,Creature and Tentacle Motion Systems,TechnicalSystem,technical_systems,0.82,self-authored,false,2026-05-27,
+TECH_004,Custom Animation Workflow Optimization,TechnicalSystem,technical_systems,0.82,self-authored,false,2026-05-27,
+TECH_005,Maya Animation Tools,TechnicalSystem,technical_systems,0.82,self-authored,false,2026-05-27,
+TECH_006,Procedural Loop Systems,TechnicalSystem,technical_systems,0.82,self-authored,false,2026-05-27,
+TECH_007,Real-Time Overlap and Follow-Through Modules,TechnicalSystem,technical_systems,0.82,self-authored,false,2026-05-27,
+TECH_008,Rig-Aware Animation Workflows,TechnicalSystem,technical_systems,0.82,self-authored,false,2026-05-27,
+TECH_009,Unreal Engine Interaction Prototypes,TechnicalSystem,technical_systems,0.82,self-authored,false,2026-05-27,
+SEM_015,Domain Governance Page,canonical_source,semantic_system,0.97,canonical_self_authored,false,2026-05-27,https://hamedbehrouzi.com/domain-governance

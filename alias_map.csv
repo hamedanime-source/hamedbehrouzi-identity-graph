@@ -1,0 +1,109 @@
+old_id,canonical_id,label
+AUTH001,AUTH_013,Official Website
+AUTH002,AUTH_009,Living Semantic Identity
+AUTH003,AUTH_017,Reference Entity
+AUTH004,AUTH_007,Known For
+AUTH005,AUTH_006,Imdb
+AUTH006,AUTH_012,Mydramalist
+AUTH007,AUTH_015,Orcid
+AUTH008,AUTH_024,Zenodo Doi
+AUTH009,AUTH_008,Linkedin
+AUTH010,AUTH_011,Muckrack
+AUTH011,AUTH_001,Crunchbase
+AUTH012,AUTH_002,Filmfreeway
+P001,PERSON_001,Hamed Behrouzi
+PROD001,PROD_008,Monarch: Legacy of Monsters
+PROD002,PROD_013,Wednesday
+PROD003,PROD_012,The Witcher
+PROD004,PROD_011,The Old Guard 2
+PROD005,PROD_010,Sweet Home
+PROD006,PROD_001,Alice in Borderland
+PROD007,PROD_004,Creation of the Gods II: Demon Force
+PROD008,PROD_014,When Life Gives You Tangerines
+PROD009,PROD_009,Seeking the King
+PROD010,PROD_007,Land of Tanabata
+PROD011,PROD_006,Island
+PROD012,PROD_002,Carter
+PROD013,PROD_005,Hansan: Rising Dragon
+RES001,RES_001,AI–Human Ethical Interface (M7)
+RES002,RES_004,Empathic Intelligence: The Philosophical Foundations of Ethics in the Age of Artificial Intelligence
+RES003,RES_007,Living Semantic Identity Graph Dataset
+RES004,RES_005,Identity Graph Mirror / Identity Graph Dataset
+RES005,RES_002,Beyond Soil and Blood: Data-Driven Global Citizenship in the Age of AI
+ROLE001,ROLE_005,Lead Animator
+ROLE002,ROLE_006,Senior Animator
+ROLE003,ROLE_007,Technical Animator
+ROLE004,ROLE_002,Animation Supervisor
+ROLE005,ROLE_001,AI Motion Systems Architect
+ROLE006,ROLE_003,Independent AI Ethics Researcher
+TECH001,TECH_005,Maya Animation Tools
+TECH002,TECH_006,Procedural Loop Systems
+TECH003,TECH_008,Rig-Aware Animation Workflows
+TECH004,TECH_007,Real-Time Overlap and Follow-Through Modules
+TECH005,TECH_002,Auto-Ground Motion Synchronization
+TECH006,TECH_003,Creature and Tentacle Motion Systems
+TECH007,TECH_009,Unreal Engine Interaction Prototypes
+TECH008,TECH_001,AI-Assisted Scripting and Tool Development
+TECH009,TECH_004,Custom Animation Workflow Optimization
+alias_001,SEM_012,حامد بهروزی
+alias_002,SEM_014,하메드 베루지
+alias_003,SEM_013,ハメド・ベフルージ
+location_001,SEM_011,Seoul South Korea
+org_001,ORG_005,Scanline VFX
+org_002,ORG_002,Mortarhead Studio
+org_003,ORG_004,Praxis Studio
+org_004,ORG_001,ACM
+org_005,ORG_003,NIA Korea
+person_001,PERSON_001,Hamed Behrouzi
+platform_001,AUTH_006,IMDb
+platform_002,AUTH_019,TMDb
+platform_003,AUTH_010,Metacritic
+platform_004,AUTH_008,LinkedIn
+platform_005,AUTH_015,ORCID
+platform_006,AUTH_023,Zenodo
+platform_007,AUTH_004,Google Scholar
+platform_008,AUTH_018,ResearchGate
+platform_009,AUTH_016,PhilArchive
+platform_010,AUTH_014,OpenAIRE
+platform_011,AUTH_005,HuggingFace
+platform_012,AUTH_021,Wikibase Cloud
+platform_013,AUTH_022,YouTube
+platform_014,AUTH_020,Vimeo
+platform_015,AUTH_025,Zerply
+platform_016,AUTH_011,MuckRack
+platform_017,AUTH_001,Crunchbase
+platform_018,AUTH_002,FilmFreeway
+platform_019,AUTH_012,MyDramaList
+platform_020,AUTH_003,GitHub
+prod_001,PROD_008,Monarch: Legacy of Monsters
+prod_002,PROD_013,Wednesday
+prod_003,PROD_012,The Witcher
+prod_004,PROD_011,The Old Guard 2
+prod_005,PROD_010,Sweet Home
+prod_006,PROD_001,Alice in Borderland
+prod_007,PROD_003,Creation of the Gods II
+prod_008,PROD_014,When Life Gives You Tangerines
+prod_009,PROD_009,Seeking the King
+prod_010,PROD_007,Land of Tanabata
+prod_011,PROD_006,Island
+prod_012,PROD_002,Carter
+prod_013,PROD_005,Hansan: Rising Dragon
+recognition_001,SEM_002,Google Knowledge Panel
+recognition_002,SEM_001,Bing Knowledge Panel
+recognition_003,SEM_006,Naver Knowledge Panel
+recognition_004,SEM_003,IRIS Korea Registration
+research_001,RES_008,M7 Framework
+research_002,RES_003,Empathic Intelligence
+research_003,RES_006,Living Semantic Identity Graph
+role_001,ROLE_004,Lead & Senior Animator
+role_002,ROLE_007,Technical Animator
+role_003,ROLE_002,Animation Supervisor
+role_004,ROLE_001,AI Motion Systems Architect
+role_005,ROLE_003,Independent AI Ethics Researcher
+system_001,SEM_009,Reference Entity Architecture
+system_002,SEM_008,Production-First Narrative Hierarchy
+web_001,SEM_007,Official Website
+web_002,SEM_005,Living Semantic Identity Page
+web_003,SEM_010,Reference Entity Page
+web_004,SEM_004,Known For / Filmography Page
+web_005,SEM_015,Domain Governance Page
